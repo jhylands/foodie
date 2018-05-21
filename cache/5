@@ -1,0 +1,1981 @@
+<!DOCTYPE html>
+<html lang="en" class="has-leaderboard country-code-default">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="//cdn.jamieoliver.com" rel="preconnect" crossorigin>
+    <link href="//fonts.googleapis.com" rel="preconnect" crossorigin>
+
+    <!-- Meta -->
+    <title>Jamie Oliver | Official website for recipes, books, tv shows and restaurants</title>
+    <meta name="description" content="JamieOliver.com is your one stop shop for everything Jamie Oliver including delicious and healthy recipes inspired from all over the world, helpful food tube videos and much more." />
+    <meta name="keywords" content="jamie oliver, jamieoliver.com" />
+    <meta name="author" content="JamieOliver.com" />
+    <meta name="p:domain_verify" content="050179ea6bc8e9e62d0fd9edcc154d4a" />
+
+	<meta property="fb:pages" content="27994914806">    
+    <meta name="google-signin-client_id" content="619762044509-j5p2iaoirs7u0pveeqh0qahjj4tddk05.apps.googleusercontent.com">
+
+    <!-- Icons -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" href="//cdn.jamieoliver.com/library/images/favicon.ico?v=2" type="image/x-icon" />
+    <link rel="icon" sizes="192x192" href="//cdn.jamieoliver.com/icons/icon.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.jamieoliver.com/icons/152x152.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="//cdn.jamieoliver.com/icons/144x144.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.jamieoliver.com/icons/120x120.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="//cdn.jamieoliver.com/icons/114x114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="//cdn.jamieoliver.com/icons/72x72.png" />
+    <link rel="apple-touch-icon-precomposed" href="//cdn.jamieoliver.com/icons/57x57.png" />
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Montserrat:700,400|Average|Roboto:300,700|Roboto+Slab:400,300' rel='stylesheet' type='text/css'>
+
+    <!-- CSS -->
+            <link href="//cdn.jamieoliver.com/library/build/238/vendor.concat.css" rel="stylesheet">
+        <link href="//cdn.jamieoliver.com/library/build/238/style.concat.css" rel="stylesheet">
+    
+    <link href="//cdn.jamieoliver.com/library/css/flickity.v2.css" rel="stylesheet">
+<meta property="og:image" content="//cdn.jamieoliver.com/library/images/Jamie-Social.jpg" />
+<meta property="og:site_name" content="Jamie Oliver" /><meta property="og:title" content="Jamie Oliver | Official website for recipes, books, tv shows and restaurants" />
+<meta property="og:description" content="JamieOliver.com is your one stop shop for everything Jamie Oliver including delicious and healthy recipes inspired from all over the world, helpful food tube videos and much more." />
+<meta name="twitter:site" content="@jamieoliver">
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Jamie Oliver | Official website for recipes, books, tv shows and restaurants" />
+<meta name="twitter:description" content="JamieOliver.com is your one stop shop for everything Jamie Oliver including delicious and healthy recipes inspired from all over the world, helpful food tube videos and much more." />
+<meta name="twitter:image" content="https://cdn.jamieoliver.com/library/images/Jamie-Social.jpg" />
+
+    
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+    
+    <!-- HotJar -->
+    <script type="text/javascript">
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:49620,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    <!-- Ensighten Ad tags from Hearst -->
+    <script type="text/javascript">
+        (function(d) {
+            var e = d.createElement('script');
+            e.async = true;
+            e.src = d.location.protocol + '//nexus.ensighten.com/hearst/mag-uk/Bootstrap.js';
+            if (document.cookie.indexOf("nsghtn=dev") > -1) {
+                e.src = d.location.protocol + '//nexus.ensighten.com/hearst/mag-uk-dev/Bootstrap.js';
+            }
+            if (e.src.length > 0) {d.getElementsByTagName("head")[0].appendChild(e);}
+        }(document));
+    </script>
+    <!-- /end Ensighten bootstrap code -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '327190784319264');
+        fbq('track', 'PageView');
+    </script>
+    <!-- End Facebook Pixel Code -->
+</head>
+<body>
+
+<div id="geo-region" data-region="gb" class="gb">
+
+<!-- Google tag manager -->
+<script>dataLayer = [];
+
+               digitalData = {
+               pageInstanceID: "home_1",
+               page:{
+                 pageInfo: {
+                   pageID: "home_1",
+                   pageName: "Home",
+                   destinationURL: document.location
+                 },
+                 category : {
+                   primaryCategory: "Home",
+                   subCategory1: "",
+                   subCategory2: "",
+                   pageType: "Home"
+                   }
+                 }
+                };
+
+                dataLayer.push({
+                  "digitalData" : digitalData
+                });</script><script type="text/javascript">
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KH9X2J');
+</script>
+
+<div class="site-wrapper wrap--homepage">
+
+            <header id="main-header" class="main-header">
+            <div class="header-content stick ">
+
+                <div id="jo-header" class="jo-header container-fluid">
+                    <div class="container">
+                        <script>
+                            dataLayer.push({
+                                'event' : 'HomepageInteraction'
+                            })
+                        </script>
+                        <div class="navbar-header">
+                            <a id="gtm_nav_logo" class="logo" href="/" title="Jamie Oliver"></a>
+                            <div class="mobile-headline"></div>
+                        </div>
+
+                        <div class="burger-menu-mobile hidden-md hidden-sd hidden-lg">
+                            <!-- Menu -->
+                            <a class="burger mobile-burger" href="#" title="Menu" data-submenu=".submenu-burger">
+                                <span class="line1"></span>
+                                <span class="line2"></span>
+                                <span class="line3"></span>
+                            </a>
+                        </div>
+
+                        <!-- Search -->
+                        <span class="site-search hidden-md hidden-sd hidden-lg"></span>
+
+                        <!-- Site Navigation -->
+                        <nav id="site-nav" class="site-nav hidden-xs hidden-sm">
+                            <div class="nav-1 ">
+                                <ul>
+                                    <li>
+                                        <a href="/recipes/" id="gtm_nav_recipes" title="Recipes" data-submenu=".submenu-recipes" data-mobile=".submenu-recipes">Recipes</a>
+                                    </li>
+                                    <li>
+                                        <a href="/" id="gtm_nav_discover" title="Discover" data-submenu=".inspireme-submenu, .submenu-inspire" data-mobile=".submenu-inspiration" class="disable-link">Learn</a>
+                                    </li>
+                                    <li>
+                                        <a href="/family/" id="gtm_nav_familyfood" title="Family Food">Family</a>
+                                                                            </li>
+                                    <li>
+                                        <a href="/restaurants/" id="gtm_nav_eat" title="Restaurants">Eat</a>
+                                    </li>
+                                    <li>
+                                        <a href="/healthier-happier-you/" id="gtm_nav_health" title="Healthier Happier you" data-submenu=".health-submenu, .submenu-health" data-mobile=".submenu-health">Health</a>
+                                    </li>
+                                    <li>
+                                        <a href="/videos/" title="Video" id="gtm_nav_videos">Video</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="nav-2">
+                                <ul>
+                                    <li class="login-container"></li>
+
+                                    <!-- Social -->
+                                    <li class="follow">
+                                        <span>Follow</span>
+                                        <div class="social-menu">
+                                            <ul>
+                                                <li class="social-m">
+                                                    <a id="gtm_nav_instagram" class="instagram" href="https://instagram.com/jamieoliver/" target="_blank">Instagram</a>
+                                                </li>
+                                                <li class="social-m">
+                                                    <a id="gtm_nav_twitter" class="twitter" href="https://twitter.com/jamieoliver" target="_blank">Twitter</a>
+                                                </li>
+                                                <li class="social-m">
+                                                    <a id="gtm_nav_gplus" class="google-plus" href="https://plus.google.com/%2BJamieOliver/posts" target="_blank">Google+</a>
+                                                </li>
+                                                <li class="social-m">
+                                                    <a id="gtm_nav_facebook" class="facebook" href="https://www.facebook.com/jamieoliver" target="_blank">Facebook</a>
+                                                </li>
+                                                <li class="social-m">
+                                                    <a id="gtm_nav_pinterest" class="pinterest" href="https://uk.pinterest.com/jamieoliver/" target="_blank">Pinterest</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+
+                                    <!-- Search -->
+                                    <li class="site-search">
+                                        <span></span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+
+                    <!--Drop down menu container -->
+                    <div id="dropdown" class="container-fluid hover-menu dropdown">
+
+                        <!--Recipe Menu  -->
+                        <div class="container recipe-menu submenu submenu-recipes">
+                            <div class="row">
+                                <div class="menu-recipe-header-menu-container"><ul id="menu-recipe-header-menu" class="menu"><li id="menu-item-103959" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103959"><a href="/recipes/category/healthy-recipes/">Healthy recipes</a>
+<ul class="sub-menu">
+	<li id="menu-item-103960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103960"><a href="/recipes/category/course/healthy-soup-recipes/">Healthy soups</a></li>
+	<li id="menu-item-103961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103961"><a href="/recipes/category/course/healthy-snack-ideas/">Healthy snacks</a></li>
+	<li id="menu-item-103962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103962"><a href="/recipes/category/course/healthy-lunch-ideas/">Healthy lunches</a></li>
+	<li id="menu-item-103963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103963"><a href="/recipes/category/course/quick-healthy-recipes/">Quick &#038; healthy</a></li>
+	<li id="menu-item-103964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103964"><a href="/recipes/category/course/healthy-chicken-recipes/">Healthy chicken recipes</a></li>
+	<li id="menu-item-107380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107380"><a href="/recipes/category/course/healthy-fish/">Healthy fish recipes</a></li>
+</ul>
+</li>
+<li id="menu-item-35" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35"><a title="Main Ingredient" href="/recipes/category/ingredient/">Main Ingredient</a>
+<ul class="sub-menu">
+	<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a title="Chicken breast recipes" href="/recipes/chicken-recipes/">Chicken</a></li>
+	<li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a title="Pasta recipes" href="/recipes/pasta-recipes/">Pasta</a></li>
+	<li id="menu-item-105288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105288"><a title="Sweet Potato recipes" href="/recipes/vegetables-recipes/">Vegetables</a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a title="Sausage recipes" href="/recipes/fish-recipes/">Fish</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a title="Butternut Squash recipes" href="/recipes/beef-recipes/">Beef</a></li>
+	<li id="menu-item-106039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106039"><a href="/recipes/eggs-recipes/">Eggs</a></li>
+	<li id="menu-item-41" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a title="ingredient View more&#8230;" href="/recipes/category/ingredient/">View more&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-63" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63"><a title="Special Diets" href="/recipes/category/special-diets/">Special Diets</a>
+<ul class="sub-menu">
+	<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65"><a title="Vegetarian" href="/recipes/category/special-diets/vegetarian/">Vegetarian ideas</a></li>
+	<li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66"><a title="Gluten-free" href="/recipes/category/special-diets/gluten-free/">Gluten-free</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a title="Vegan" href="/recipes/category/special-diets/vegan/">Vegan</a></li>
+	<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a title="Dairy-free" href="/recipes/category/special-diets/dairy-free/">Dairy-free</a></li>
+</ul>
+</li>
+<li id="menu-item-49" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49"><a title="Meals &#038; Courses" href="/recipes/category/course/">Meals &#038; Courses</a>
+<ul class="sub-menu">
+	<li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a title="Starter" href="/recipes/category/course/breakfast/">Brilliant breakfast</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a title="Sides" href="/recipes/category/course/cheap-cheerful/">Cheap &#038; cheerful</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51"><a title="Desserts recipes" href="/recipes/category/course/desserts/">Desserts</a></li>
+	<li id="menu-item-105291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105291"><a title="Drinks recipes" href="/recipes/category/dishtype/drinks/">Drinks</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a title="Dessert" href="/recipes/category/course/one-pan-recipes/">One-pan recipes</a></li>
+	<li id="menu-item-103826" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103826"><a href="/recipes/category/course/quick-fixes/">Quick fixes</a></li>
+	<li id="menu-item-55" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a title="Courses View More" href="/recipes/category/course/">View more&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-106916" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-106916"><a href="/recipes/category/beautiful-baking/">Baking</a>
+<ul class="sub-menu">
+	<li id="menu-item-106917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106917"><a href="/recipes/category/beautiful-baking/cake/">Cakes</a></li>
+	<li id="menu-item-106918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106918"><a href="/recipes/category/beautiful-baking/gluten-free-cake/">Gluten-free cakes</a></li>
+	<li id="menu-item-106920" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106920"><a href="/recipes/category/beautiful-baking/afternoon-tea/">Afternoon tea treats</a></li>
+	<li id="menu-item-106921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106921"><a href="/recipes/category/beautiful-baking/cookie/">Cookies</a></li>
+	<li id="menu-item-106922" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106922"><a href="/recipes/category/beautiful-baking/bread-doughs/">Breads &#038; doughs</a></li>
+	<li id="menu-item-107597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107597"><a href="/recipes/category/beautiful-baking/tart/">Tarts</a></li>
+	<li id="menu-item-106923" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-106923"><a href="/recipes/category/beautiful-baking/">View more&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-103835" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-103835"><a title="Family Food" href="/family/">Family Food</a>
+<ul class="sub-menu">
+	<li id="menu-item-106569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106569"><a href="/family/family-favourites/">Family favourites</a></li>
+	<li id="menu-item-106570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106570"><a href="/family/school-night-suppers/">School night suppers</a></li>
+	<li id="menu-item-106571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106571"><a href="/family/freezer-friendly-recipes/">Freezer friendly</a></li>
+	<li id="menu-item-106572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106572"><a href="/family/batch-cooking/">Batch cooking</a></li>
+	<li id="menu-item-106573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106573"><a href="/family/quick-easy/">Quick &#038; easy</a></li>
+	<li id="menu-item-106574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106574"><a href="/family/money-saving-recipes/">Money saving recipes</a></li>
+	<li id="menu-item-107608" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-107608"><a title="Dish Type View More" href="/family/">View more&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-107129" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-107129"><a title="Special occasions" href="/recipes/category/occasion/">Special occasions</a>
+<ul class="sub-menu">
+	<li id="menu-item-108929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108929"><a href="https://www.jamieoliver.com/recipes/category/occasion/mothers-day/">Mother&#8217;s Day</a></li>
+	<li id="menu-item-108838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108838"><a href="https://www.jamieoliver.com/recipes/category/occasion/easter-treats/">Easter treats</a></li>
+	<li id="menu-item-107132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107132"><a href="/recipes/category/occasion/sunday-lunch/">Sunday lunch</a></li>
+	<li id="menu-item-107131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107131"><a href="/recipes/category/occasion/dinner-party/">Dinner party</a></li>
+	<li id="menu-item-108839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108839"><a href="https://www.jamieoliver.com/recipes/category/occasion/party-food/">Party food</a></li>
+	<li id="menu-item-107296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107296"><a href="/recipes/category/occasion/dinner-for-two/">Dinner for two</a></li>
+	<li id="menu-item-48" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a title="Dish Type View More" href="/recipes/category/occasion/">View more&#8230;</a></li>
+</ul>
+</li>
+<li id="menu-item-77" class="submenu-heading col-md-3 dropdown-element menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-77"><a title="Books &#038; TV" href="/recipes/category/books/">Books &#038; TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-115031" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-115031"><a href="/recipes/category/books/5-ingredients-quick-easy-food-recipes-2/">5 Ingredients  Quick &#038; Easy Food</a></li>
+	<li id="menu-item-106915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106915"><a href="/recipes/category/books/jamie-and-jimmys-friday-night-feast/">Jamie &#038; Jimmy&#8217;s Friday Night Feast</a></li>
+	<li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81"><a href="/family/jamies-super-food-family-classics/">Jamie&#8217;s Super Food Family Classics</a></li>
+	<li id="menu-item-83" class="view-more menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a title="Books View more" href="/recipes/category/books/">View more&#8230;</a></li>
+</ul>
+</li>
+</ul></div>                            </div>
+                        </div>
+                        <!--End Recipe menu -->
+
+                        <!-- Health Menu -->
+                        <div class="health_menu submenu inspireme_menu submenu-health hidden-xs hidden-sm">
+                            <div class="container">
+                                <div class="sub-menu health-menu">
+                                    <div class="row">
+                                        <br>
+                                                                                    <div class="col-md-2 dropdown-element">
+                                                <a class="gtm_health_sub_3 inspire-me-links" href="/healthier-happier-you/" >
+                                                    <img alt="Quick Easy and Healthy" width="190" height="126" class="responsive-image lazy-image on-inview" data-offset="300" data-src="//cdn.jamieoliver.com/library/images/xmas/hhy.jpg" src="//cdn.jamieoliver.com/library/images/placeholder/square.gif"/>Quick Easy and Healthy                                                </a>
+                                            </div>
+                                                                                        <div class="col-md-2 dropdown-element">
+                                                <a class="gtm_health_sub_5 inspire-me-links" href="/nutrition-faqs/" >
+                                                    <img alt="Nutritional Advice" width="190" height="126" class="responsive-image lazy-image on-inview" data-offset="300" data-src="//cdn.jamieoliver.com/library/images/xmas/nutrition.jpg" src="//cdn.jamieoliver.com/library/images/placeholder/square.gif"/>Nutritional Advice                                                </a>
+                                            </div>
+                                                                                        <div class="col-md-2 dropdown-element">
+                                                <a class="gtm_health_sub_1 inspire-me-links" href="http://www.jamiesfoodrevolution.org/obesity/" >
+                                                    <img alt="Jamie's Obesity Strategy" width="190" height="126" class="responsive-image lazy-image on-inview" data-offset="300" data-src="//cdn.jamieoliver.com/library/images/health-submenu-sugar.jpg" src="//cdn.jamieoliver.com/library/images/placeholder/square.gif"/>Jamie's Obesity Strategy                                                </a>
+                                            </div>
+                                                                                </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Health menu -->
+
+                        <!-- Inspiration Menu -->
+                        <div class="container inspireme_menu submenu submenu-inspire hidden-xs hidden-sm">
+
+                            <div class="inspireme-submenu">
+                                <a id="gtm_discover_read" data-submenu=".features-menu" href="/news-and-features/">Read</a>
+                                <a id="gtm_discover_watch" data-submenu=".videos-menu" href="/videos/">Watch</a>
+                                <a id="gtm_more_jamie_foundation" data-submenu=".foundation-menu" href="/adenough/">Campaigns</a>
+                            </div>
+
+                            <!-- features -->
+                            <div class="sub-menu features-menu">
+                                <div class="row">
+                                                                            <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_read_1" class="inspire-me-links" href="https://www.jamieoliver.com/news-and-features/features/best-diy-dishes-crowd/">
+                                                
+<img width="300" height="199" alt="Best DIY dishes for a crowd" title="Best DIY dishes for a crowd" class="responsive-image lazy-image" data-src="https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/05/20170921_FNF_Greg-Davies_Jamies-Homemade-Lamb-Kebabs_630x420-624x416.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                Best DIY dishes for a crowd                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_read_2" class="inspire-me-links" href="https://www.jamieoliver.com/news-and-features/features/westminster-be-the-superheroes-we-need/">
+                                                
+<img width="300" height="199" alt="Westminster, be the superheroes we need" title="Westminster, be the superheroes we need" class="responsive-image lazy-image" data-src="https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/05/Line-up-1-1-624x441.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                Westminster, be the superheroes we need                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_read_3" class="inspire-me-links" href="https://www.jamieoliver.com/news-and-features/features/jamie-olivers-5-day-veggie-challenge/">
+                                                
+<img width="300" height="199" alt="Jamie Olivers 5-day Veggie Challenge!" title="Jamie Olivers 5-day Veggie Challenge!" class="responsive-image lazy-image" data-src="https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/05/5DVC_LEADIMAGE_HHY_10.05.18-624x416.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                Jamie Olivers 5-day Veggie Challenge!                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_read_4" class="inspire-me-links" href="https://www.jamieoliver.com/news-and-features/features/8-twists-classic-carbonara/">
+                                                
+<img width="300" height="199" alt="8 twists on a classic carbonara!" title="8 twists on a classic carbonara!" class="responsive-image lazy-image" data-src="https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2014/09/GF-Spaghetti-Carbonara-1-624x414.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                8 twists on a classic carbonara!                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_read_5" class="inspire-me-links" href="https://www.jamieoliver.com/news-and-features/features/5-colourful-mexican-recipes/">
+                                                
+<img width="300" height="199" alt="5 colourful Mexican recipes" title="5 colourful Mexican recipes" class="responsive-image lazy-image" data-src="https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/04/Beautiful-Breakfast-Tortillas_cincodemayo_630x420-624x416.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                5 colourful Mexican recipes                                            </a>
+                                        </div>
+                                                                            <div class="col-md-2 dropdown-element view-all">
+                                        <a id="gtm_discover_read_all" class="underline-link" href="/news-and-features/">View all features</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End features-->
+
+                            <!-- videos -->
+                            <div class="sub-menu videos-menu">
+                                <div class="row">
+                                                                            <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_watch_1" class="inspire-me-links" href="https://www.jamieoliver.com/videos/5-things-to-do-with-pork/">
+                                                
+<img width="300" height="169" alt="5 Things to do with. Pork" title="5 Things to do with. Pork" class="responsive-image lazy-image" data-src="https://img.youtube.com/vi/idNKQTfD5-U/mqdefault.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                5 Things to do with. Pork                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_watch_2" class="inspire-me-links" href="https://www.jamieoliver.com/videos/jamies-specials-6/">
+                                                
+<img width="300" height="169" alt="JAMIE&#8217;S SPECIALS" title="JAMIE&#8217;S SPECIALS" class="responsive-image lazy-image" data-src="https://img.youtube.com/vi/SX-S3ectTXs/mqdefault.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                JAMIE&#8217;S SPECIALS                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_watch_3" class="inspire-me-links" href="https://www.jamieoliver.com/videos/jamies-specials-5/">
+                                                
+<img width="300" height="169" alt="JAMIE&#8217;S SPECIALS" title="JAMIE&#8217;S SPECIALS" class="responsive-image lazy-image" data-src="https://img.youtube.com/vi/r_pSRgfWQo4/mqdefault.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                JAMIE&#8217;S SPECIALS                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_watch_4" class="inspire-me-links" href="https://www.jamieoliver.com/videos/royal-roast-chicken-for-harry-meghan/">
+                                                
+<img width="300" height="169" alt="Royal Roast Chicken for Harry &amp; Meghan" title="Royal Roast Chicken for Harry &amp; Meghan" class="responsive-image lazy-image" data-src="https://img.youtube.com/vi/bJeUb8ToRIw/mqdefault.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                Royal Roast Chicken for Harry &amp; Meghan                                            </a>
+                                        </div>
+                                                                                <div class="col-md-2 dropdown-element">
+                                            <a id="gtm_discover_watch_5" class="inspire-me-links" href="https://www.jamieoliver.com/videos/sign-up-to-5dayveggie-challenge/">
+                                                
+<img width="300" height="169" alt="Sign up to #5dayveggie Challenge" title="Sign up to #5dayveggie Challenge" class="responsive-image lazy-image" data-src="https://img.youtube.com/vi/awFYlGen3GI/mqdefault.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                                Sign up to #5dayveggie Challenge                                            </a>
+                                        </div>
+                                                                            <div class="col-md-2 dropdown-element">
+                                        <a id="gtm_discover_watch_all" class="underline-link inspire-me-links" href="/videos/">View all videos</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End videos-->
+
+                            <!-- Foundation -->
+                            <div class="sub-menu foundation-menu">
+                                <div class="row">
+                                    <div class="col-md-3 col-sd-2 col-lg-2 dropdown-element tv">
+                                        <a id="gtm_more_jamie_foundation_frd"  href="/adenough/">
+                                            
+<img width="200" height="140" alt="#AdEnough" title="#AdEnough" class="responsive-image lazy-image" data-src="//cdn.jamieoliver.com/library/images/menu/ad-enough.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                            #Adenough
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3 col-sd-2 col-lg-2 dropdown-element tv">
+                                        <a id="gtm_more_jamie_obesity_plan"  href="https://www.jamieoliver.com/news-and-features/features/jamies-plan-to-tackle-childhood-obesity/">
+                                            
+<img width="200" height="140" alt="Tackling Childhood Obesity" title="Tackling Childhood Obesity" class="responsive-image lazy-image" data-src="//cdn.jamieoliver.com/library/images/menu/obesity-plan.jpg" src="//cdn.jamieoliver.com/library/images/placeholder.jpg" />                                            Tackling childhood obesity
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Foundation -->
+
+                        </div>
+                        <!-- End More Jamie Menu -->
+
+                        <!-- Burger Menu -->
+                        <div class="container burger-menu submenu submenu-burger hidden-xs hidden-sm">
+                            <div class="row"></div>
+                        </div>
+                        <!-- End Burger Menu -->
+
+                    </div>
+                    <!-- End drop down menu container -->
+                </div>
+
+                                    <div class="top-advert">
+                        <div class="ad desktop">
+                            <div id="gpt-leaderboard-ad">
+                            </div>
+                        </div>
+                    </div>
+                
+                <!-- Search bar -->
+                <div id="search" class="container-fluid">
+                    <div class="container">
+                        <div class="search-input">
+                            <div class="input-wrapper">
+                                <i class="search-icon hidden-sm hidden-xs"></i>
+                                <form id="site-search" method="get" action="/search/">
+                                    <input type="text" placeholder="Search for anything" class="typeahead input_text clear_search" name="s">
+                                    <input type="submit">
+                                </form>
+                            </div>
+                        </div>
+
+                        <div class="search-close">
+                            <a href="#" class="close">
+                                <img class="close-img" src="//cdn.jamieoliver.com/library/images/closebutton.svg" onerror="this.onerror=null;this.src='//cdn.jamieoliver.com/library/images/closebutton.png';" width="24" height="23" alt="close" title="close">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Search bar -->
+
+            </div>
+        </header>
+
+            
+<section id="rotdslider">
+    <div class="bxslider-container">
+
+        <div class="rotd-wrapper bx-wrapper">
+            <div class="mask left"></div>
+            <div class="mask right"></div>
+
+            <ul class="rotd-slider">
+                                    
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_1" class="rotd-link"
+                           href="/recipes/vegetables-recipes/the-best-buttermilk-onion-rings/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/xtra_med/46261060.jpg" alt="The best buttermilk onion rings"
+                                 title="The best buttermilk onion rings">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">The best buttermilk onion rings</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_2" class="rotd-link"
+                           href="/recipes/chicken-recipes/my-perfect-roast-chicken/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/xtra_med/70966262.jpg" alt="My perfect roast chicken"
+                                 title="My perfect roast chicken">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">My perfect roast chicken</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_3" class="rotd-link"
+                           href="/recipes/butternut-squash-recipes/vegan-m-hanncha/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/xtra_med/63138355.jpg" alt="Vegan m'hanncha"
+                                 title="Vegan m'hanncha">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">Vegan m'hanncha</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class="rotd-active gallery-cell">
+                        <a id="gtm_hp_rotd_4" class="rotd-link"
+                           href="/recipes/vegetables-recipes/spring-minestrone/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/oldImages/xtra_med/535_1_1436889751.jpg" alt="Spring minestrone"
+                                 title="Spring minestrone">
+                            <div class="captions">
+                                <span class="type">
+                                                                        <span class="rotd-banner">Make the most of lovely seasonal veg<span class="white-triangle"></span>
+                                      </span>
+                                                                  </span>
+                                <span class="title">Spring minestrone</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_5" class="rotd-link"
+                           href="/recipes/fruit-recipes/bircher-muesli/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/oldImages/xtra_med/1403_13_1418206457.jpg" alt="Bircher muesli"
+                                 title="Bircher muesli">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">Bircher muesli</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_6" class="rotd-link"
+                           href="/recipes/vegetables-recipes/vietnamese-bun-cha-with-sticky-spicy-tofu/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/oldImages/xtra_med/1416_1_1436962774.jpg" alt="Vietnamese bun cha with sticky spicy tofu"
+                                 title="Vietnamese bun cha with sticky spicy tofu">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">Vietnamese bun cha with sticky spicy tofu</span>
+                            </div>
+                        </a>
+                    </li>
+                                        
+                    <li style="list-style:none;"
+                        class=" gallery-cell">
+                        <a id="gtm_hp_rotd_7" class="rotd-link"
+                           href="/recipes/pasta-recipes/pasta-peperonata/">
+                            <img src="//cdn.jamieoliver.com/recipe-database/oldImages/xtra_med/382_1_1438867908.jpg" alt="Pasta peperonata"
+                                 title="Pasta peperonata">
+                            <div class="captions">
+                                <span class="type">
+                                                                  </span>
+                                <span class="title">Pasta peperonata</span>
+                            </div>
+                        </a>
+                    </li>
+                                </ul>
+            <div class="bx-controls-direction">
+                <a class="bx-next flick-next" href=""><span>NEXT</span></a>
+                <a class="bx-prev flick-prev" href=""><span>PREVIOUS</span></a>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<div class="topline"></div>
+
+<div class="promo-banner" data-component="promo-banner" data-location="homepage">ADVERTISEMENT</div>
+
+<section id="popular-categories">
+    <h2>Get inspired</h2>
+    <span class="subtitle hidden-xs">HAND-PICKED BITS &amp; BITES</span>
+    <div class="content-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-sd-8 col-md-8 col-sm-12">
+                    <div class="row">
+                                                    <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_1"
+                                   class="hover-link "
+                                   href="https://www.jamieoliver.com/recipes/vegetables-recipes/gorgeous-gado-gado/">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/02/HP_gado_gado.jpg"
+                                         title="Punchy gado-gado salad  jam-packed with flavour"
+                                         alt="Punchy gado-gado salad  jam-packed with flavour"/>
+                                    <span class="subtitles">Punchy gado-gado salad  jam-packed with flavour</span>
+                                </a>
+                            </div>
+                                                        <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_2"
+                                   class="hover-link "
+                                   href="https://www.jamieoliver.com/recipes/vegetables-recipes/sliced-fennel-orange-almond-salad/">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/05/hpfennelorangesalad.jpg"
+                                         title="A fresh & crunchy salad to brighten up any table"
+                                         alt="A fresh & crunchy salad to brighten up any table"/>
+                                    <span class="subtitles">A fresh & crunchy salad to brighten up any table</span>
+                                </a>
+                            </div>
+                                                        <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_3"
+                                   class="hover-link "
+                                   href="https://www.jamieoliver.com/recipes/vegetables-recipes/quinoa-feta-broad-bean-salad/">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/05/hpquinoasalad.jpg"
+                                         title="A great way to use quinoa if you haven't tried it before"
+                                         alt="A great way to use quinoa if you haven't tried it before"/>
+                                    <span class="subtitles">A great way to use quinoa if you haven't tried it before</span>
+                                </a>
+                            </div>
+                                                        <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_4"
+                                   class="hover-link "
+                                   href="https://po.st/quick-and-easy">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2015/04/JO-QuickEasy-BookCover-Glow.jpg"
+                                         title="5 Ingredients  Quick & Easy Food buy your copy today"
+                                         alt="5 Ingredients  Quick & Easy Food buy your copy today"/>
+                                    <span class="subtitles">5 Ingredients  Quick & Easy Food buy your copy today</span>
+                                </a>
+                            </div>
+                                                        <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_5"
+                                   class="hover-link "
+                                   href="https://www.jamieoliver.com/recipes/seafood-recipes/prawn-amp-coconut-curry/">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/05/hpseafoodcoconutcurry.jpg"
+                                         title="A lightly spiced & fragrant curry to ease you into the week"
+                                         alt="A lightly spiced & fragrant curry to ease you into the week"/>
+                                    <span class="subtitles">A lightly spiced & fragrant curry to ease you into the week</span>
+                                </a>
+                            </div>
+                                                        <div
+                                class="col-lg-4 col-sd-4 col-md-6 col-sm-6 col-xs-6 fadeIn delay1 set-height set-mobile-col country-other">
+                                <a id="gtm_hp_get_inspired_6"
+                                   class="hover-link "
+                                   href="https://www.jamieolivercookeryschool.com/">
+                                    <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2015/04/Jamie-Oliver-Cookery-School_99.jpg"
+                                         title="Learn how to be a pro in the kitchen at the Jamie Oliver Cookery School"
+                                         alt="Learn how to be a pro in the kitchen at the Jamie Oliver Cookery School"/>
+                                    <span class="subtitles">Learn how to be a pro in the kitchen at the Jamie Oliver Cookery School</span>
+                                </a>
+                            </div>
+                                                </div>
+                </div>
+                <div class="col-lg-3 col-sd-4 col-md-4 col-sm-12 hidden-xs">
+
+                    <!-- Advertisment-->
+                    <div id='gpt-ad-vertical-top' class="ad most-watched ">
+                        <span>ADVERTISEMENT</span>
+                    </div>
+                    <!-- End Advertisment-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<hr>
+
+<!-- How to videos or features -->
+<section id="howto" class="container-fluid fadeIn">
+    <h2>More to explore</h2>
+    <span class="subtitle">TOP FEATURES &amp; VIDEOS</span>
+    <div class="content-wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="slider-wrapper">
+                        <ul class="howto-slider">
+                                                            <li>
+                                    <a id="gtm_hp_more_to_explore_1" href="https://www.jamieoliver.com/videos/thai-green-curry-jamie-oliver/" title="Thai green chicken curry" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(//assets-jpcust.jwpsrv.com/thumbs/VEvSwJhU-1280.jpg)" title="Thai green chicken curry">
+                                            <span class="video-play"></span>                                        </span>
+                                        Thai green chicken curry                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_2" href="/news-and-features/features/7-vegan-recipes-for-the-week-ahead/" title="7 vegan dishes for the week ahead" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/02/Sweet-heart-Slaw-300x200.jpg)" title="7 vegan dishes for the week ahead">
+                                                                                    </span>
+                                        7 vegan dishes for the week ahead                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_3" href="https://www.jamieoliver.com/videos/lemon-chicken-with-smashed-sweet-potato/" title="Lemon chicken with smashed sweet potato" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://img.youtube.com/vi/a_B_vL3iHQM/maxresdefault.jpg)" title="Lemon chicken with smashed sweet potato">
+                                            <span class="video-play"></span>                                        </span>
+                                        Lemon chicken with smashed sweet potato                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_4" href="/news-and-features/features/7-dairy-free-dinners-for-the-week-ahead/" title="7 dairy-free dinners for the week ahead" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2018/02/pancettacod_dairyfree_1200x800-300x200.jpg)" title="7 dairy-free dinners for the week ahead">
+                                                                                    </span>
+                                        7 dairy-free dinners for the week ahead                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_5" href="https://www.jamieoliver.com/videos/how-to-make-perfect-scrambled-eggs-3-ways-jamie-oliver/" title="This is the only scrambled egg recipe you need" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(//assets-jpcust.jwpsrv.com/thumbs/mpi4vDfz-1280.jpg)" title="This is the only scrambled egg recipe you need">
+                                            <span class="video-play"></span>                                        </span>
+                                        This is the only scrambled egg recipe you need                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_6" href="/news-and-features/features/best-brunch-in-london/" title="These are the best eggs in London&#8230;. We&#8217;re not yolking!" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2016/07/featured_brunch-300x200.jpg)" title="These are the best eggs in London&#8230;. We&#8217;re not yolking!">
+                                                                                    </span>
+                                        These are the best eggs in London&#8230;. We&#8217;re not yolking!                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_7" href="https://www.jamieoliver.com/videos/beautiful-breakfast-tortillas/" title="Have a go at these beautiful breakfast tortillas!" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(//assets-jpcust.jwpsrv.com/thumbs/mY6x9dsI-1280.jpg)" title="Have a go at these beautiful breakfast tortillas!">
+                                            <span class="video-play"></span>                                        </span>
+                                        Have a go at these beautiful breakfast tortillas!                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_8" href="/news-and-features/features/brilliant-ways-to-cook-with-beans/" title="The tastiest bean recipes" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2016/10/Feature_Crop-300x200.jpg)" title="The tastiest bean recipes">
+                                                                                    </span>
+                                        The tastiest bean recipes                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_9" href="https://www.jamieoliver.com/videos/chocolate-almond-milk-danielle-hayley/" title="Homemade chocolate almond milk" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://img.youtube.com/vi/ERCG0PAMY3Q/maxresdefault.jpg)" title="Homemade chocolate almond milk">
+                                            <span class="video-play"></span>                                        </span>
+                                        Homemade chocolate almond milk                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_10" href="/news-and-features/features/healthier-stronger-bones/" title="How to have healthier, stronger bones" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2016/08/Leadimage_strongbones-300x200.jpg)" title="How to have healthier, stronger bones">
+                                                                                    </span>
+                                        How to have healthier, stronger bones                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_11" href="https://www.jamieoliver.com/videos/vegan-burger-tim-livewire-shieff/" title="These vegan burgers are so tasty  just add salad and pickles!" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://img.youtube.com/vi/NUyyh1cr4Fg/maxresdefault.jpg)" title="These vegan burgers are so tasty  just add salad and pickles!">
+                                            <span class="video-play"></span>                                        </span>
+                                        These vegan burgers are so tasty  just add salad and pickles!                                    </a>
+                                </li>
+                                                                <li>
+                                    <a id="gtm_hp_more_to_explore_12" href="/news-and-features/features/benefits-of-iron/" title="Why do you need more iron?" class="animatestuff">
+                                        <span class="howto-container img aspect16-9" style="background-image:url(https://cdn.jamieoliver.com/news-and-features/features/wp-content/uploads/sites/2/2017/08/Iron_04_EM-300x200.jpg)" title="Why do you need more iron?">
+                                                                                    </span>
+                                        Why do you need more iron?                                    </a>
+                                </li>
+                                                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- How to videos or features -->
+
+<hr class="hidden-xs">
+
+<!-- What's cooking-->
+    <section id="popular-recipes" class="container-fluid ">
+        <h2>Recipes</h2>
+        <span class="subtitle">GET COOKING &amp; SHARING</span>
+        <div class="recipe-filter">
+            <span class="filterby">Filter by:</span>
+            <a class="active-menu" id="gtm_hp_recipe_filter_1" href="#" data-filter="popular">Popular</a><a  id="gtm_hp_recipe_filter_2" href="#" data-filter="chicken">Chicken</a><a  id="gtm_hp_recipe_filter_3" href="#" data-filter="fruit">Fruit</a><a  id="gtm_hp_recipe_filter_4" href="#" data-filter="vegan">Vegan</a><a  id="gtm_hp_recipe_filter_5" href="#" data-filter="salad">Salad</a><a href="#" data-filter="all">All recipes</a>
+        </div>
+        <div class="content-wrapper">
+            <div class="container">
+                <ul class="row recipe-list">
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="indian,chicken,rice,chilli,lemon,tomato,chickpea,cuisine,poultry,food database,grains pulses nuts,vegetable,fruit,curry,curry powder,herb or flavour,peppers,pepper,chicken curry,curry base,curry sauce,curry base sauce recipe,family food,Cheap &amp; cheerful,Freezer-friendly recipes,Healthy meals,Mains,Money-saving recipes,One-pan recipes,Curry,Chicken,Dinner for two,Healthy chicken recipes,Healthy dinner ideas,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_0"
+                                href="/recipes/chicken-recipes/pukka-yellow-curry/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1100_1_1436875132.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1100_1_1436875132.jpg"
+                                     alt="Pukka yellow curry"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Pukka yellow curry</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="vegetarian,dietary,Healthy meals,Light meals,Mains,Quick fixes,Vegetable sides,courgette,courgette salad,gluten-free,spaghetti,vegetables,pesto,Vegetables,Lighter New Year,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_1"
+                                href="/recipes/vegetables-recipes/courgette-spaghetti-with-rocket-pesto/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/medium/66bCXW4WKukBjvXU6rzIy-.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/66bCXW4WKukBjvXU6rzIy-.jpg"
+                                     alt="Courgette spaghetti with rocket pesto"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Courgette spaghetti with rocket pesto</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_2"
+                                href="https://www.jamieoliver.com/recipes/category/special-diets/gluten-free/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/GlutenFree_thaichickensoup_HPcontent_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/GlutenFree_thaichickensoup_HPcontent_310x414.jpg"
+                                     alt="Gluten-free"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Gluten-free</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_3"
+                                href="https://www.jamieoliver.com/recipes/courgette-recipes/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/courgette_lemonylinguine_HPcontent_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/courgette_lemonylinguine_HPcontent_310x414.jpg"
+                                     alt="Courgette"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Courgette</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="spanish,seafood,chicken,prawn,chorizo,dairy-free,cuisine,food database,poultry,cured,meat,dietary,paella,prawns,Mains,One-pan recipes,Seafood,Frying,Dinner Party,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_4"
+                                href="/recipes/seafood-recipes/paella/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/372_36_1440760950.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/372_36_1440760950.jpg"
+                                     alt="Paella"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Paella</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_5"
+                                href="https://www.jamieoliver.com/recipes/aubergine-recipes/claudio-s-aubergine-parmigiana/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/03/aubergineparmigiana_HP_categoryimage_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/03/aubergineparmigiana_HP_categoryimage_310x414.jpg"
+                                     alt="Aubergine"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Aubergine</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="american,bread,burger,chickpea,dairy-free,vegan,vegetarian,cuisine,baked,food database,beef,meat,vegetable,dietary,30 minute meals,Healthy meals,Mains,BBQ food,Vegetables,BBQ &amp; grilling,Father's day,Party food,Bonfire night recipes,Healthy dinner ideas,Healthy vegetarian recipes,Quick &amp; healthy recipes,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_6"
+                                href="/recipes/vegetables-recipes/the-best-vegan-burger/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1245_1_1436954815.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1245_1_1436954815.jpg"
+                                     alt="The best vegan burger"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">The best vegan burger</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_7"
+                                href="https://www.jamieoliver.com/recipes/category/occasion/beautiful-baking/cake/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Cake_apricothoney_HPcontent_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Cake_apricothoney_HPcontent_310x414.jpg"
+                                     alt="Cake"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Cake</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="italian,fruit,cheese,duck,gluten-free,cuisine,food database,dairy,poultry,dietary,christmas,occasion,fig,ham,cured,meat,mozzarella,honey,sweets and desserts,leftovers,cooking,salad,salads,Starters,Salad,Fruit,Aussie Christmas,Dinner Party,Romantic meals,starter,starters,Christmas,Party food,New Year party picks,party food,winter salad,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_8"
+                                href="/recipes/fruit-recipes/the-easiest-sexiest-salad-in-the-world/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/614_1_1421669086.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/614_1_1421669086.jpg"
+                                     alt="The easiest sexiest salad in the world"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">The easiest sexiest salad in the world</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="tomato,dairy-free,gluten-free,vegetable,food database,dietary,soup,tomato soup,soups,Soup,Vegetables,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_9"
+                                href="/recipes/vegetables-recipes/tomato-soup/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/625_1_1436957931.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/625_1_1436957931.jpg"
+                                     alt="Tomato soup"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Tomato soup</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_10"
+                                href="https://www.jamieoliver.com/recipes/category/dishtype/puddings-desserts/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Puddings_tiramisu_HPcontent_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Puddings_tiramisu_HPcontent_310x414.jpg"
+                                     alt="Dessert"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Dessert</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="italian,chicken,chicken breast,tomato,gluten-free,cuisine,poultry,food database,vegetable,dietary,Mains,Chicken,Dinner Party,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_11"
+                                href="/recipes/chicken-recipes/chicken-arrabbiata/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1451_1_1437988391.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1451_1_1437988391.jpg"
+                                     alt="Chicken arrabbiata"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Chicken arrabbiata</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="british,egg,dairy-free,gluten-free,vegetarian,cuisine,dairy,food database,dietary,eggs,Breakfast,One-pan recipes,Eggs,Frying,Easter treats,Father's day,Mother's day,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_12"
+                                href="/recipes/eggs-recipes/sunny-side-up-eggs/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/576_1_1438868377.jpg"
+                                     alt="Sunny side-up eggs"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Sunny side-up eggs</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_13"
+                                href="https://www.jamieoliver.com/recipes/avocado-recipes/"
+                            >
+                                <img src="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Avocado_ryetoast_HPcontent_310x414.jpg"
+                                     class="img-responsive" data-url="https://cdn.jamieoliver.com/home/wp-content/uploads/2018/04/Avocado_ryetoast_HPcontent_310x414.jpg"
+                                     alt="Avocado"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Recipes</span>
+                                    <span class="subtitles">Avocado</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe active inview"
+                            data-tags="pasta,food database,meatballs,meatball,meat balls,Pasta &amp; risotto,Pasta,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_14"
+                                href="/recipes/pasta-recipes/meatballs-and-pasta/"
+                            >
+                                <img src="//cdn.jamieoliver.com/recipe-database/oldImages/medium/331_1_1436865256.jpg"
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/331_1_1436865256.jpg"
+                                     alt="Meatballs & pasta"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Pasta</span>
+                                    <span class="subtitles">Meatballs & pasta</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,chicken,cuisine,poultry,food database,soup,Mains,Chicken,Dinner Party,Father's day,Sunday lunch">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_15"
+                                href="/recipes/chicken-recipes/spring-poached-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/536_1_1438878092.jpg"
+                                     alt="Spring poached chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Spring poached chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,chicken,bread,roast chicken,bean,tomato,green beans,dairy-free,cuisine,poultry,food database,baked,vegetable,dietary,beans,bean salad,Salad,Chicken,Roasting">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_16"
+                                href="/recipes/chicken-recipes/epic-roast-chicken-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/979_1_1434097699.jpg"
+                                     alt="Epic roast chicken salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Epic roast chicken salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="italian,chicken,stew,dairy-free,gluten-free,cuisine,poultry,food database,beef,meat,dietary,chicken stew,Mains,Stew,Chicken,Stewing,Bonfire night recipes">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_17"
+                                href="/recipes/chicken-recipes/hunter-s-chicken-stew-pollo-alla-cacciatora/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/275_30_1436801947.jpg"
+                                     alt="Hunter's chicken stew (Pollo alla cacciatora)"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Hunter's chicken stew (Pollo alla cacciatora)</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="curry,food database,chicken thighs,chicken,poultry,asian,cuisine,chicken curry">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_18"
+                                href="/recipes/chicken-recipes/south-asian-chicken-curry/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/46325044.jpg"
+                                     alt="South Asian chicken curry"/>
+                                <span class="text-container">
+                                    <span class="cat-titles"></span>
+                                    <span class="subtitles">South Asian chicken curry</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,chicken,roast chicken,cuisine,poultry,food database,dumplings,dishes,bacon,pork,meat,potato,vegetable,mushroom,stew,Stew,Chicken,St. George's Day,Sunday lunch,chicken stew">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_19"
+                                href="/recipes/chicken-recipes/humble-chicken-stew-dumplings/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/945_1_1436801812.jpg"
+                                     alt="Humble chicken stew & dumplings"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Humble chicken stew & dumplings</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,gluten-free,poultry,food database,dietary,Family one-pan recipes,Lunch &amp; dinner recipes,Mains,One-pan recipes,BBQ food,Chicken,BBQ &amp; grilling,Alfresco,Picnic">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_20"
+                                href="/recipes/chicken-recipes/chargrilled-chicken-kebabs/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1550_1_1436968650.jpg"
+                                     alt="Chargrilled chicken kebabs"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Chargrilled chicken kebabs</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dietary,dairy-free,Mains,One-pan recipes,Roast,chicken,chicken thighs,bacon,tomato,Chicken,Roasting">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_21"
+                                href="/recipes/chicken-recipes/one-tray-bake/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/EroaMZYD4Tn9Lhcefi0llH.jpg"
+                                     alt="One-tray bake"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">One-tray bake</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,poultry,food database,roast chicken,friday night feasts,caesar,salad,dishes,salad dressing,sides and sauces,sunday lunch,occasion,anchovy,fish,crouton,savoury,baked,Jamie &amp; Jimmy's Friday Night Feast,FNF series five,Chicken,Salad,chicken salad,salads,Lunch &amp; dinner recipes,Dinner Party,dressing">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_22"
+                                href="/recipes/chicken-recipes/ultimate-roast-chicken-caesar-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/63138339.jpg"
+                                     alt="Ultimate roast chicken Caesar salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Ultimate roast chicken Caesar salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="indian,chicken,gluten-free,cuisine,poultry,food database,dietary,Mains,Chicken,Roasting,Dinner Party">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_23"
+                                href="/recipes/chicken-recipes/tandoori-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1442_1_1436892273.jpg"
+                                     alt="Tandoori chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Tandoori chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,bread,fruit,poultry,food database,baked,blood orange,chicken breast,spinach,vegetable,garlic bread,kebab,chicken thighs,Healthy meals,Light meals,Mains,One-pan recipes,Quick fixes,BBQ food,Chicken,BBQ &amp; grilling,Alfresco,Lighter New Year,Healthy chicken recipes,Healthy dinner ideas,Healthy lunch ideas,Quick &amp; healthy recipes,Australia day">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_24"
+                                href="/recipes/chicken-recipes/chicken-garlic-bread-kebabs/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1582_9_1439906331.jpg"
+                                     alt="Chicken & garlic bread kebabs"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Chicken & garlic bread kebabs</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="Mains,One-pan recipes,Stew,Chicken,Stewing,Dinner Party,Sunday lunch,chicken,chicken casserole,chicken stew,eggs,stew,vegetables">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_25"
+                                href="/recipes/chicken-recipes/spring-chicken-citrus-stew/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/3TiRvISsawYAwqa4Xy7PMd.jpg"
+                                     alt="Spring chicken & citrus stew"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Spring chicken & citrus stew</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,chicken,roast chicken,potato,roast potato,roast,dairy-free,gluten-free,cuisine,poultry,food database,vegetable,meat,dietary,roast potatoes,Mains,Roast,Chicken,Roasting,Dinner Party,Mother's day,Sunday lunch">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_26"
+                                href="/recipes/chicken-recipes/roast-chicken-with-lemon-and-rosemary-roast-potatoes/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/448_1_1439307201.jpg"
+                                     alt="Roast chicken with lemon and rosemary roast potatoes"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Roast chicken with lemon and rosemary roast potatoes</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,dairy-free,poultry,food database,dietary,salad,salads,chicken salad,Salad,Chicken">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_27"
+                                href="/recipes/chicken-recipes/the-best-chicken-salad-ever/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/777_1_1436957173.jpg"
+                                     alt="The best chicken salad ever"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">The best chicken salad ever</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="american,chicken,chicken thighs,cuisine,poultry,food database,Mains,Chicken,Frying,Father's day,Party food">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_28"
+                                href="/recipes/chicken-recipes/southern-fried-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1356_1_1440772046.jpg"
+                                     alt="Southern fried chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Southern fried chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,poultry,food database,tandoori,herb or flavour,cooking">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_29"
+                                href="/recipes/chicken-recipes/jamie-s-tandoori-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/2uY2QAn4qHk8FjN7AFAq_k.jpg"
+                                     alt="Jamie's Tandoori chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles"></span>
+                                    <span class="subtitles">Jamie's Tandoori chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,fruit,dessert,apple,vegetarian,cuisine,food database,sweets and desserts,dietary,desserts,apple pie,desert,deserts,Desserts,Puddings &amp; desserts,Fruit,Baking,Dinner Party,Easter treats,Sunday lunch,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_30"
+                                href="/recipes/fruit-recipes/blackberry-and-apple-pie/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/84_1_1421663653.jpg"
+                                     alt="Blackberry and apple pie"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Blackberry and apple pie</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,fruit,potato,apple,poultry,food database,vegetable,family food,weaning,Chicken">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_31"
+                                href="/recipes/chicken-recipes/michela-s-potato-apple-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1544_2_1431621065.jpg"
+                                     alt="Michelas potato, apple &amp; chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Michelas potato, apple &amp; chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="french,fruit,dessert,tarte tatin,pear,vegetarian,cuisine,food database,sweets and desserts,tart,dietary,christmas,occasion,baking and desserts,Desserts,Pies &amp; pastries,Fruit,Christmas,Dinner Party,Easter treats,Mother's day,Party food,party food,New Year party picks,Tart,puff pastry">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_32"
+                                href="/recipes/fruit-recipes/pear-tart-tatin/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1127_17_1436871969.jpg"
+                                     alt="Pear tart tatin"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Pear tart tatin</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="lemon,green beans,dairy-free,gluten-free,vegan,vegetarian,fruit,food database,bean,vegetable,dietary,vegetables,family food,Cheap &amp; cheerful,Family one-pan recipes,Lunch &amp; dinner recipes,Money-saving recipes,One-pan recipes,Quick &amp; easy recipes,Sides,Vegetable sides,Vegetables,Frying,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_33"
+                                href="/recipes/vegetables-recipes/lemony-green-beans/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/317_1_1439206818.jpg"
+                                     alt="Lemony green beans"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Lemony green beans</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="plum,fruit,food database,sides and sauces,chutney,dairy-free,dietary,gluten-free,vegan,vegetarian,christmas,occasion,gift,One-pan recipes,Sauces,Sauces &amp; condiments,Fruit,Christmas,christmas condiments">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_34"
+                                href="/recipes/fruit-recipes/spiced-plum-chutney/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/2JSuUZVHqjw8Hxu1xkzZUn.jpg"
+                                     alt="Spiced plum chutney"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Spiced plum chutney</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="potato,roast potato,roast,sides and sauces,dairy-free,gluten-free,vegetarian,vegan,vegetable,food database,meat,dietary,sage,herb or flavour,orange,fruit,roast potatoes,vegetables,Sides,Vegetable sides,Vegetables,Roasting,Christmas,Easter treats,Father's day,Mother's day,Sunday lunch,spuds and sides,the trimmings">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_35"
+                                href="/recipes/vegetables-recipes/roast-potatoes-with-sage-and-orange/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/452_1_1349860879.jpg"
+                                     alt="Roast potatoes with sage & orange"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Roast potatoes with sage & orange</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="fruit,food database,dairy-free,dietary,gluten-free,vegan,vegetarian,Drinks,Prep &amp; go recipes,Quick &amp; easy recipes,Quick fixes,carrots,drinks,family food,apple,Fruit,Lighter New Year,Juices and smoothies">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_36"
+                                href="/recipes/fruit-recipes/grapefruit-carrot-apple-juice/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/46264247.jpg"
+                                     alt="Grapefruit, carrot & apple juice"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Grapefruit, carrot & apple juice</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dietary,vegetarian,Desserts,Fruit,Baking,Afternoon tea,Cake">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_37"
+                                href="/recipes/fruit-recipes/soaked-pistachio-citrus-cake/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/7lHH6jTgKh_AzV5RKbxJuh.jpg"
+                                     alt="Soaked pistachio &amp; citrus cake"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Soaked pistachio &amp; citrus cake</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,fruit,apple,celeriac,vegetarian,gluten-free,cuisine,food database,vegetable,dietary,christmas,occasion,soup,dishes,soups,Cheap &amp; cheerful,Light meals,Mains,Starters,Soup,Vegetables,Stewing,Christmas,Dinner Party,Gorgeous Winter Soups,Bonfire night recipes,starter,starters">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_38"
+                                href="/recipes/vegetables-recipes/apple-celeriac-soup/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1189_1_1436965366.jpg"
+                                     alt="Apple & celeriac soup"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Apple & celeriac soup</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="fruit,beetroot,food database,vegetable,family food,weaning,Fruit">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_39"
+                                href="/recipes/fruit-recipes/michela-s-beetroot-peach-coconut-no-cook/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1527_2_1431620398.jpg"
+                                     alt="Michelas beetroot, peach &amp; coconut (no cook)"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Fruit</span>
+                                    <span class="subtitles">Michelas beetroot, peach &amp; coconut (no cook)</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="vegetarian,dietary,Desserts,Puddings &amp; desserts,Pies &amp; pastries,baking and desserts,desserts,pastry,Fruit,Baking">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_40"
+                                href="/recipes/fruit-recipes/plum-lattice-pie/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/ADe0aouRKCFArlFUNudPVm.jpg"
+                                     alt="Plum lattice pie"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Plum lattice pie</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="fruit,salad dressing,lemon,cheese,pear,gluten-free,vegetarian,food database,sides and sauces,dairy,dietary,salad,salads,Mains,Quick fixes,Salad,Fruit">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_41"
+                                href="/recipes/fruit-recipes/pear-crunch-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1064_2_1442239677.jpg"
+                                     alt="Pear crunch salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Pear crunch salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chicken,bread,fruit,poultry,food database,baked,blood orange,chicken breast,spinach,vegetable,garlic bread,kebab,chicken thighs,Healthy meals,Light meals,Mains,One-pan recipes,Quick fixes,BBQ food,Chicken,BBQ &amp; grilling,Alfresco,Lighter New Year,Healthy chicken recipes,Healthy dinner ideas,Healthy lunch ideas,Quick &amp; healthy recipes,Australia day">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_42"
+                                href="/recipes/chicken-recipes/chicken-garlic-bread-kebabs/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1582_9_1439906331.jpg"
+                                     alt="Chicken & garlic bread kebabs"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Chicken</span>
+                                    <span class="subtitles">Chicken & garlic bread kebabs</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="cheese,fruit,mozzarella,fruit salad,gluten-free,vegetarian,dairy,food database,dietary,salad,salads,Sides,Starters,Salad,Cheese,Dinner Party,Lighter New Year">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_43"
+                                href="/recipes/cheese-recipes/mozzarella-winter-fruit-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1156_24_1438014701.jpg"
+                                     alt="Mozzarella & winter fruit salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Mozzarella & winter fruit salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,fruit,dessert,pudding,vegetarian,cuisine,food database,sweets and desserts,dietary,canapes,dishes,christmas,occasion,party,desserts,desert,deserts,party food,baking and desserts,Desserts,Puddings &amp; desserts,Fruit,Christmas,Leftovers,leftovers,puddings,Party food,Dinner Party,New Year party picks">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_44"
+                                href="/recipes/fruit-recipes/christmas-pudding-spoons/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/140_1_1439309460.jpg"
+                                     alt="Christmas pudding spoons"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Christmas pudding spoons</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="cauliflower,sides and sauces,dairy-free,gluten-free,vegan,vegetarian,vegetable,food database,dietary,christmas,occasion,brussels sprouts,roast,cooking,roasting,vegetables,the big meal,Sides,Vegetable sides,Vegetables,Baking,Christmas,Thanksgiving,spuds and sides">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_45"
+                                href="/recipes/vegetables-recipes/sicilian-roasted-cauliflower-brussels-sprouts/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1282_25_1438681057.jpg"
+                                     alt="Sicilian roasted cauliflower &amp; Brussels sprouts"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Sicilian roasted cauliflower &amp; Brussels sprouts</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dessert,ice cream,dairy-free,vegan,vegetarian,gluten-free,sweets and desserts,food database,dietary,vanilla,herb or flavour,christmas,occasion,desserts,desert,deserts,Desserts,Puddings &amp; desserts,Uncategorised,Christmas">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_46"
+                                href="/recipes/fruit-recipes/dairy-free-vanilla-ice-cream/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1257_15_1436780121.jpg"
+                                     alt="Dairy-free vanilla ice cream"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Dairy-free vanilla ice cream</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,barbecue,bbq,dairy-free,vegan,vegetarian,cuisine,sides and sauces,food database,dietary,barbeque,Sauces,Sauces &amp; condiments,Vegetables,Party food,The Big Feastival">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_47"
+                                href="/recipes/vegetables-recipes/bbq-sauce/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/950_1_1439211402.jpg"
+                                     alt="BBQ sauce"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">BBQ sauce</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="italian,dairy-free,gluten-free,vegan,vegetarian,cuisine,dietary,vegetables,Sides,Vegetable sides,Vegetables,Frying">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_48"
+                                href="/recipes/vegetables-recipes/italian-style-greens-ricetta-tipica-per-verdure-verdi/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/285_1_1438788367.jpg"
+                                     alt="Italian style greens (Ricetta tipica per verdure verdi)"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Italian style greens (Ricetta tipica per verdure verdi)</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="cuisine,asian,dishes,broth,soup,winter,season,dan jones,food database,vegetable,vegetarian,dietary,dairy-free,vegan,Light meals,Mains,One-pan recipes,Soup,vegetable soup,Vegetables,Gorgeous Winter Soups,Lighter New Year,Healthy vegetarian recipes,Healthy soup recipes">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_49"
+                                href="/recipes/vegetables-recipes/asian-vegetable-broth/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/46262269.jpg"
+                                     alt="Asian vegetable broth"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">vegetarian</span>
+                                    <span class="subtitles">Asian vegetable broth</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dairy-free,gluten-free,vegan,vegetarian,dietary,salad,vegetables,family food,Family one-pan recipes,Lunch &amp; dinner recipes,One-pan recipes,Prep &amp; go recipes,Quick &amp; easy recipes,Quick fixes,Salad,Vegetables,Quick &amp; healthy recipes,Healthy vegetarian recipes">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_50"
+                                href="/recipes/vegetables-recipes/simple-chopped-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1494_2_1434020579.jpg"
+                                     alt="Simple chopped salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Simple chopped salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="american,gin,drinks,dairy-free,gluten-free,vegan,vegetarian,cuisine,dietary,Gin,Aperitifs,Cocktails,Drinks,Drinks Tube">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_51"
+                                href="/recipes/gin-recipes/tom-collins/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1201_1_1436957802.jpg"
+                                     alt="Tom Collins"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Tom Collins</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dairy-free,dietary,vegan,vegetarian,Drinks,Cocktails,drinks and cocktails,drinks,Whiskey">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_52"
+                                href="/recipes/whiskey-recipes/il-valentino/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/0JjvWO2_4ju8YoUlg7m-rp.jpg"
+                                     alt="Il valentino"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Il valentino</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="chilli,dairy-free,vegan,vegetarian,vegetable,food database,dietary,Uncategorised">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_53"
+                                href="/recipes/uncategorised-recipes/homemade-chilli-crackers/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/795_1_1436801469.jpg"
+                                     alt="Homemade chilli crackers"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Homemade chilli crackers</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="drinks,cocktail,christmas,occasion,party,dairy-free,dietary,gluten-free,vegan,vegetarian,drinks and cocktails,Party drinks,Jamie's Ultimate Christmas,Christmas TV show,Christmas,Cocktails">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_54"
+                                href="/recipes/drink-recipes/manhattan/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/EYTocw3OKcuBJv9xJTfp0h.jpg"
+                                     alt="Manhattan"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Manhattan</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="cake,dairy-free,vegan,vegetarian,sweets and desserts,food database,dietary,ginger,herb or flavour,cupcake,baking,cooking,christmas,occasion,gift,cupcakes,Desserts,Snacks,Uncategorised,Baking,Afternoon tea,Easter treats,Mother's day,Party food,Halloween recipes,Christmas,Beautiful baking recipes,baking and desserts">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_55"
+                                href="/recipes/uncategorised-recipes/vegan-ginger-cupcakes/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1253_1_1436961159.jpg"
+                                     alt="Vegan ginger cupcakes"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Vegan ginger cupcakes</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="pizza,dairy-free,vegan,vegetarian,food database,dietary,pizza dough,pizza base,Pizza,Uncategorised,Baking">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_56"
+                                href="/recipes/bread-recipes/pizza-dough/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/394_1_1436873790.jpg"
+                                     alt="Pizza dough"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Pizza dough</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="salad,dishes,dairy-free,dietary,gluten-free,vegan,vegetarian,Sides,Quick fixes,Vegetable sides,Salad,asparagus,courgette salad,courgette,salads,Vegetables,Al Fresco,Alfresco,Quick &amp; healthy recipes,Quick &amp; easy recipes,Healthy vegetarian recipes">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_57"
+                                href="/recipes/vegetables-recipes/raw-spring-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/5IpZAvgW4pI9RN8dfL09hO.jpg"
+                                     alt="Raw spring salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Raw spring salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="fruit,drinks,dairy-free,gluten-free,vegan,vegetarian,food database,dietary,Cocktails,Drinks,Fruit,Afternoon tea,Alfresco,Party drinks,Picnic,Summer cocktails,Wimbledon">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_58"
+                                href="/recipes/fruit-recipes/raspberry-ginger-fizz/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/738_1_1436881062.jpg"
+                                     alt="Raspberry &amp; ginger fizz"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Raspberry &amp; ginger fizz</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="italian,bread,bruschetta,artichoke,dairy-free,vegan,vegetarian,cuisine,baked,food database,vegetable,dietary,family food,occasion,christmas,family,party,vegetables,party food,Starters,Antipasti,Bread,Frying,Christmas,Party food,Dinner Party,New Year party picks">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_59"
+                                href="/recipes/bread-recipes/baby-artichoke-bruschetta/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/35_1_1350894024.jpg"
+                                     alt="Baby artichoke bruschetta"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Baby artichoke bruschetta</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="french,cheese,bacon,cuisine,dairy,food database,pork,meat,christmas,occasion,salad,dishes,leftovers,cooking,salads,Mains,Salad,Cheese,Party food,Christmas,Dinner Party,winter salad">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_60"
+                                href="/recipes/cheese-recipes/roquefort-salad-with-warm-croutons-and-lardons/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/477_1_1421669001.jpg"
+                                     alt="Roquefort salad with warm croutons and lardons"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Cheese</span>
+                                    <span class="subtitles">Roquefort salad with warm croutons and lardons</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="salad,dishes,food database,pasta,christmas,occasion,winter,season,leftovers,cooking,turkey,poultry,autumn,Mains,Pasta &amp; risotto,Salad,Leftovers,pasta salad,spinach,Pasta,Aussie Christmas,Christmas,party food,Party food,winter salad">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_61"
+                                href="/recipes/pasta-recipes/winter-pasta-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/1BSdoLz-4bB9U6Y0Y0AsHO.jpg"
+                                     alt="Winter pasta salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Pasta</span>
+                                    <span class="subtitles">Winter pasta salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="french,chicken,chicken breast,bbq,potato,barbecue,dairy-free,cuisine,poultry,food database,sides and sauces,vegetable,dietary,salad,barbeque,Mains,BBQ food,Chicken,BBQ &amp; grilling,Dinner Party,Party food">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_62"
+                                href="/recipes/chicken-recipes/french-style-chicken/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1142_1_1437993493.jpg"
+                                     alt="French-style chicken"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">French-style chicken</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="asian,beef,dairy-free,cuisine,meat,food database,dietary,salad,salads,noodles,noodle salad,Mains,Salad,Beef,Stir fry">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_63"
+                                href="/recipes/beef-recipes/fresh-asian-noodle-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/214_1_1421163548.jpg"
+                                     alt="Fresh Asian noodle salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Fresh Asian noodle salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="jamie oliver,asian,cuisine,super food,dishes,noodles,salad,food database,meat,beef,vegetable,carrot,minced beef,Mains,Healthy meals,Quick fixes,noodle salad,Beef,Stir fry,Dinner for two,Lighter New Year,Healthy dinner ideas">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_64"
+                                href="/recipes/beef-recipes/asian-crispy-beef/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/46329135.jpg"
+                                     alt="Asian crispy beef"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">Beef</span>
+                                    <span class="subtitles">Asian crispy beef</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="american,duck,broccoli,bacon,dairy-free,cuisine,poultry,food database,vegetable,pork,meat,dietary,salad,salads,Sides,Salad,Vegetables,Frying,Alfresco,Aussie Christmas,Picnic">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_65"
+                                href="/recipes/vegetables-recipes/broccoli-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/98_1_1433952510.jpg"
+                                     alt="Broccoli salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Broccoli salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="dairy-free,dietary,gluten-free,Mains,Salad,beetroot,beetroot salad,fish,mackerel,salads,salad dressing,salad,Fish">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_66"
+                                href="/recipes/fish-recipes/pomegranate-glazed-mackerel-with-satsuma-fennel-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/3B2_N2ptqtT9iosmjw4TJq.jpg"
+                                     alt="Pomegranate-glazed mackerel with satsuma & fennel salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Pomegranate-glazed mackerel with satsuma & fennel salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="pork,dairy-free,gluten-free,meat,food database,dietary,salad,salads,avocado,Salad,Pork,Alfresco,Picnic">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_67"
+                                href="/recipes/pork-recipes/avocado-pancetta-pine-nut-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/801_1_1421668887.jpg"
+                                     alt="Avocado, pancetta &amp; pine nut salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Avocado, pancetta &amp; pine nut salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="beetroot,salad dressing,gluten-free,vegetarian,vegetable,food database,sides and sauces,dietary,salad,salads,beetroot salad,Mains,Sides,Starters,Salad,Vegetables,Christmas,Dinner Party,Lighter New Year">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_68"
+                                href="/recipes/vegetables-recipes/candied-beet-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/1224_1_1436968104.jpg"
+                                     alt="Candied beet salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">gluten-free</span>
+                                    <span class="subtitles">Candied beet salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="salad,seafood,dishes,food database,dairy-free,dietary,gluten-free,Light meals,Mains,Quick fixes,Starters,Salad,crab,avocado,salads,fish,Al Fresco,Alfresco,Dinner for two,Lighter New Year,Picnic,Healthy lunch ideas,Healthy lunchbox">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_69"
+                                href="/recipes/seafood-recipes/fennel-crab-orange-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/medium/DZ1D_1ZEaB3AyizgqAuSlz.jpg"
+                                     alt="Fennel, crab & orange salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Fennel, crab & orange salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="beetroot,dairy-free,gluten-free,vegan,vegetarian,vegetable,food database,dietary,salad,salads,beetroot salad,Sides,Salad,Vegetables">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_70"
+                                href="/recipes/vegetables-recipes/raw-beetroot-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/438_1_1439306998.jpg"
+                                     alt="Raw beetroot salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Raw beetroot salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="french,bean,dairy-free,vegan,vegetarian,cuisine,vegetable,food database,dietary,salad,salads,beans,vegetables,bean salad,Sides,Vegetable sides,Vegetables,Popular">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_71"
+                                href="/recipes/vegetables-recipes/good-old-french-bean-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/233_1_1439916050.jpg"
+                                     alt="Good old French bean salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Good old French bean salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="spanish,egg,duck,potato,chorizo,omelette,dairy-free,gluten-free,cuisine,dairy,food database,poultry,vegetable,cured,meat,dietary,salad,eggs,Mains,One-pan recipes,Eggs,Frying,Dinner for two">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_72"
+                                href="/recipes/eggs-recipes/potato-and-chorizo-omelette-with-a-kinda-parsley-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/413_1_1436874684.jpg"
+                                     alt="Potato and chorizo omelette with a kinda parsley salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Potato and chorizo omelette with a kinda parsley salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="rice,dairy-free,vegan,vegetarian,grains pulses nuts,food database,dietary,salad,salads,rice salad,summer,Healthy meals,Sides,Vegetable sides,Vegetables,Healthy lunch ideas,Healthy lunchbox,Healthy vegetarian recipes">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_73"
+                                href="/recipes/vegetables-recipes/summer-four-grain-salad-with-garlic-lemon-and-herbs/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/762_1_1436891128.jpg"
+                                     alt="Summer four-grain salad with garlic, lemon and herbs"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Summer four-grain salad with garlic, lemon and herbs</span>
+                                </span>
+                            </a>
+                        </li>
+                                            <li class="col-sm-4 col-md-3 col-sd-5ths col-lg-4 recipe "
+                            data-tags="british,fish,salmon,smoked salmon,dairy-free,gluten-free,cuisine,food database,dietary,christmas,occasion,avocado,fruit,vegetable,leftovers,cooking,salad,salads,Mains,Salad,Fish,Alfresco,Christmas,Sides,Starters,starter,starters,Dinner Party,winter salad">
+                            <a
+                                class="hover-link gtm_hp_recipe_tile_74"
+                                href="/recipes/fish-recipes/smoked-salmon-and-avocado-salad/"
+                            >
+                                <img src=""
+                                     class="img-responsive" data-url="//cdn.jamieoliver.com/recipe-database/oldImages/medium/735_1_1436887451.jpg"
+                                     alt="Smoked salmon & avocado salad"/>
+                                <span class="text-container">
+                                    <span class="cat-titles">dairy-free</span>
+                                    <span class="subtitles">Smoked salmon & avocado salad</span>
+                                </span>
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+            <a id="popular-recipe-loader" class="btn"
+               href="/recipes"><span>VIEW MORE</span><i></i></a>
+        </div>
+    </section>
+    <!-- end What's cooking-->
+
+<hr class="hidden-xs no-cross">
+
+<script>
+    var HRST=HRST||{};HRST.site={name:"Jamie Oliver",prefix:"jamieoliver",domain:"jamieoliver.com",dartZone:"36117602/hmiuk-jamieoliver"},HRST.article={section:{name:"homepage",prefix:"homepage"},subSection:{name:"homepage",prefix:"homepage"},pageUrl:document.location.href,id:"homepage",template:"homepage",title:document.title},HRST.targeting={site:"Jamie Oliver",sect:"homepage",sub:"homepage",page:"homepage",tool:"homepage",artid:"2",type:"homepage"};
+</script><div class="promo-banner" data-component="promo-banner" data-location="footer"></div>
+
+	<div id="footer" class="container-fluid">
+		<ul><li id="menu-item-86" class="gtm_footer_nav_0 menu-item menu-item-type-custom menu-item-object-custom menu-item-86"><a title="T&#038;Cs" href="/terms/">T &#038; Cs</a></li>
+<li id="menu-item-87" class="gtm_footer_nav_1 menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a title="Privacy" href="/privacy/">Privacy</a></li>
+<li id="menu-item-88" class="gtm_footer_nav_2 menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a title="COOKIE POLICY" href="/cookies/">COOKIE POLICY</a></li>
+<li id="menu-item-394" class="gtm_footer_nav_4 menu-item menu-item-type-custom menu-item-object-custom menu-item-394"><a title="CAREERS" href="/careers/">CAREERS</a></li>
+<li id="menu-item-395" class="gtm_footer_nav_5 menu-item menu-item-type-custom menu-item-object-custom menu-item-395"><a title="CONTACT" href="/help/">CONTACT</a></li>
+<li id="menu-item-112023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112023"><a href="/htmlsitemap/">SITEMAP</a></li>
+<li id="menu-item-90" class="gtm_footer_nav_7 menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-90"><a title=" JAMIE OLIVER ENTERPRISES" href="https://www.jamieoliver.com"> 2018 Jamie Oliver Enterprises Limited</a></li>
+</ul>	</div>
+
+	
+    <script type='text/javascript'>
+        var ajaxURL = 'https://www.jamieoliver.com/home/wp-admin/admin-ajax.php';
+    </script>
+
+    
+        <script src="//cdn.jamieoliver.com/library/build/238/vendor.concat.js"></script>
+        <script src="//cdn.jamieoliver.com/library/build/238/script.concat.js"></script>
+        <script src="//cdn.jamieoliver.com/library/build/238/family-food-global.concat.js"></script>
+
+    
+    
+
+<script src="//cdn.jamieoliver.com/library/js/jquery.easing.1.3.js"></script>
+<script src="//cdn.jamieoliver.com/library/js/jquery.inview.min.js"></script>
+<script src="//cdn.jamieoliver.com/library/js/flickity.pkgd.min.js"></script>
+<script src="//cdn.jamieoliver.com/library/build/238/homepage.js"></script>
+
+</div><!-- End: site-wrapper -->
+
+</div> <!-- End: #geo-region -->
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-57e936922d274243"></script>
+
+<script>(function () { var v = 1526917464 * 3.1415926535898; v = Math.floor(v); document.cookie = "__zjc6204="+v+"; expires=Mon, 21 May 2018 15:49:24 UTC; path=/"; })()</script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 2808/361 objects using memcache
+Page Caching using disk: enhanced 
+Content Delivery Network via Amazon Web Services: CloudFront: cdn.jamieoliver.com
+
+Served from: www.jamieoliver.com @ 2018-05-21 11:15:52 by W3 Total Cache
+-->
