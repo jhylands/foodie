@@ -22,9 +22,9 @@ def parse_ingredients(ingredients_string):
     #remove unicode fractions (often used by bbc good food)
     ingredients_string = rid_uni_frac(ingredients_string)
     doc = nlp(ingredients_string)
-    if doc[0].tag_ == 'CD':
+    if doc[0].tag_ in ['CD','LS']:
         try:
-            return ureg.parse_expression(str(doc[0:2])), doc[2:]
+            return ureg.parse_expression(str(doc[0:2]) , doc[2:]
         except UndefinedUnitError:
             return doc[0], doc[1:]
     else:

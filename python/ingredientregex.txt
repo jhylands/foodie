@@ -1,0 +1,396 @@
+from recipe_scrapers import scrape_me
+# give the url as a string, it can be url from any site listed below
+scrape_me = scrape_me('http://allrecipes.com/Recipe/Apple-Cake-Iv/Detail.aspx')
+scrape_me.title()
+scrape_me.total_time()
+scrape_me.ingredients()
+scrape_me.instructions()
+scrape_me.links()
+scrape_me = scrape_me('https://www.bbcgoodfood.com/recipes/2075/tomato-soup')
+from recipe_scrapers import scrape_me
+scraped = scrape_me('http://allrecipes.com/Recipe/Apple-Cake-Iv/Detail.aspx')
+scrape_me.ingredients()
+scraped.ingredients()
+scraped = scrape_me('http://allrecipes.com/Recipe/Apple-Cake-Iv/Detail.aspx')
+scraped.ingredients()
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/2075/tomato-soup')
+scraped.ingredients()
+scraped.links()
+scraped.total_time()
+scraped = scrape_me('https://www.jamieoliver.com/recipes/vegetables-recipes/tomato-soup/')
+scraped.total_time()
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/2075/tomato-soup')
+scraped.total_time()
+scraped.ingredients()
+scraped.ingredients()[0]
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/6652/naughty-chocolate-fudge-cake')
+scraped.ingredients()
+scraped.total_time()
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/epic-summer-salad')
+scraped.total_time()
+scraped.ingredients()
+print('/n'.join(scraped.ingredients()))
+print('\n'.join(scraped.ingredients()))
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/6652/naughty-chocolate-fudge-cake')
+print('\n'.join(scraped.ingredients()))
+import spacy
+nlp = spacy.load('en_core_web_sm')
+doc = nlp(scrapped.ingredients()[0])
+doc = nlp(scraped.ingredients()[0])
+for token in doc:
+    print(token.text, token.dep_, token.head.text, token.head.pos_,
+          [child for child in token.children])
+ nlp(scraped.ingredients()
+for token in doc:
+    print(token.text, token.dep_, token.head.text, token.head.pos_,
+          [child for child in token.children])
+import pint
+from pint import UnitRegistry
+ureg = UnitRegistry()
+ureg.parse_expression('100ml')
+ureg.parse_expression('100 tsp')
+ureg.parse_expression('100 tbsp')
+a = ureg.parse_expression('100 tbsp')
+a.to('ml')
+a = ureg.parse_expression('100 tsp')
+a.to('ml')
+a = ureg.parse_expression('1 tsp')
+a.to('ml')
+a = ureg.parse_expression('1 carrot')
+scraped = scrape_me('https://www.olivemagazine.com/recipes/quick-and-easy/dead-good-spaghetti-carbonara/')
+scraped = scrape_me('https://www.bbc.com/food/recipes/creamy_carbonara_74567')
+scraped = scrape_me('https://www.bbcgoodfood.com/recipes/1052/ultimate-spaghetti-carbonara')
+print('\n'.join(scraped.ingredients()))
+scraped.total_time()
+scraped.instructions()
+scraped.ingredients()[0]
+scraped.ingredients()[0].split(' ')[0]
+ureg.parse_expression(scraped.ingredients()[0].split(' ')[0])
+ureg.parse_expression(scraped.ingredients()[0].split(' ')[0]).to('tbsn')
+ureg.parse_expression(scraped.ingredients()[0].split(' ')[0]).to('tsp')
+ureg.parse_expression(scraped.ingredients()[0].split(' ')[0]).to('oz')
+scraped.ingredients()[0].split(' ')[2]
+scraped.ingredients()[0].split(' ')[1]
+ing = scraped.ingredients()[0].split(' ')[1]
+am = ureg.parse_expression(scraped.ingredients()[0].split(' ')[0])
+am
+am.to('ml')
+ureg.parse_expression('1 pint - 1 pint')
+ureg.parse_expression('1 pint')
+ap ureg.parse_expression('1 pint')
+ap = ureg.parse_expression('1 pint')
+am= 
+meter = ureg.parse_expression('1 meter')
+ap - meter
+am = ureg.parse_expression(scraped.ingredients()[0].split(' ')[0])
+am
+scraped.ingredients()[0].split(' ')[0]
+scraped.ingredients()[1].split(' ')[0]
+scraped.ingredients()[2].split(' ')[0]
+scraped.ingredients()[3].split(' ')[0]
+scraped.ingredients()[3].split(' ')[2]
+scraped.ingredients()[3].split(' ')[]
+scraped.ingredients()[3].split(' ')[1]
+nlp(scraped.ingredients()[3].split(' ')[1])
+doc = nlp(scraped.ingredients()[3].split(' ')[1])
+for teken in doc:
+	
+for token in doc:
+	print(token.head.pos_)
+doc = nlp(u'grams')
+for token in doc:
+	print(token.head.pos_)
+doc
+doc[0]
+doc[0].head.pos_
+am
+ing
+ings scraped.ingredients()[3]
+ings = scraped.ingredients()[3]
+doc = nlp(ings)
+doc
+for toekn in doc:
+	print(toekn.head.pos_)
+for toekn in doc:
+	print(toekn.tag_)
+def print_token(doc):
+	for token in doc:
+		print(token.tag)
+doc = nlp(u'100 grams of flour')
+print_token(doc)
+doc
+doc[0]
+doc[0].tag
+doc[0].tag_
+def print_token(doc):
+	for token in doc:
+		print(token.tag_)
+print_token(doc)
+doc = nlp(u'100g of flour')
+print_token(doc)
+doc
+doc[1]
+doc = nlp(u'2 limes')
+print_token(doc)
+doc = nlp(u'½ cucumber, halved lengthways, seeds scooped out and sliced on an angle')
+print_token(doc)
+doc = nlp(u'0.5 cucumber, halved lengthways, seeds scooped out and sliced on an angle')
+print_token(doc)
+doc = nlp(u'100g cucumber, halved lengthways, seeds scooped out and sliced on an angle')
+print_token(doc)
+doc = nlp(u'100g green cucumber')
+print_token(doc)
+doc = nlp(u'100g of green cucumber')
+print_token(doc)
+doc = nlp(u'100g green cucumber')
+print_token(doc)
+doc[1]
+ureg.parse_expression(scraped.ingredients()[0].split(' ')[0]).to('tbsn')
+doc
+doc[0:1]
+doc[0:2]
+doc1 = nlp(u'100 grams pasta')
+doc1[0:2]
+ureg.parse_expresion(doc1[0:2])
+ureg.parse_expression(doc1[0:2])
+ureg.parse_expression(string(doc1[0:2]))
+ureg.parse_expression(str(doc1[0:2]))
+ureg.parse_expression(str(doc[0:2]))
+doc2 = nlp(u'100 carrots')
+ureg.parse_expression(str(doc2[0:2]))
+ureg.parse_expression(str(doc[0:2]))
+# give the url as a string, it can be url from any site listed below
+from pint import UnitRegistry
+ureg = UnitRegistry() 
+ureg.parse_expression('1 pinch'
+)
+ureg.parse_expression('1 pinch').to('ml')
+exit()
+from pint import UnitRegistry
+ureg = UnitRegistry() 
+ureg.parse_expression('1 pinch')
+ureg.parse_expression('1 pinch').to('ml')
+ureg.parse_expression('1 smidge').to('ml')
+ureg.parse_expression('1 smidge').to('pinch')
+ureg.parse_expression('1 smidge').to('handful')
+ureg.parse_expression('1 handful').to('liters')
+from librecipe import *
+exir()
+exit()
+from librecipe import *
+recipe = get_recipe('https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa')
+for ingredient in recipe.ingredients():
+	print(parse_ingredients(ingredient))
+recipe = get_recipe('https://www.bbcgoodfood.com/recipes/seared-steak-celery-pepper-caponata')
+for ingredient in recipe.ingredients():
+	print(parse_ingredients(ingredient))
+nlp('baslamic')[0].tag_
+nlp('baslamic vinigar')[0].tag_
+nlp('baslamic vinigar')[0].pos_
+recipe = get_recipe('https://www.bbcgoodfood.com/recipes/strawberry-elderflower-gateau')
+for ingredient in recipe.ingredients():
+	print(parse_ingredients(ingredient))
+doc = nlp(u'2 x 200g sponge flan cases (25cm)')
+doc
+for tag in doc:
+	print(tag.top_)
+for tag in doc:
+	print(tag.pos_)
+doc = nlp(u'650ml double cream')
+doc[0]
+doc[1]
+recipe = get_recipe('https://www.bbcgoodfood.com/recipes/1269/chilli-prawn-linguine')
+for ingredient in recipe.ingredients():
+	print(parse_ingredients(ingredient))
+recipe.ingredients()[0]
+quantity, ingredient = parse_ingredients(recipe.ingredients()[0])
+quantity.to('oz')
+recipe = get_recipe('http://allrecipes.co.uk/recipe/43354/caramel-latte-ice-pops.aspx')
+recipe = get_recipe('http://dish.allrecipes.com/easy-healthy-zucchini-main-dish-recipes/?internalSource=hp_carousel%2001_14%20Easy%20Healthy%20Zucchini%20Main%20Dishes&referringContentType=home&referringPosition=caro')
+recipe = get_recipe('https://www.allrecipes.com/recipe/10833/refrigerator-cookies-iii/?internalSource=streams&referringId=362&referringContentType=recipe%20hub&clickId=st_trending_b')
+recipe.title()
+for ingredient in recipe.ingredients():
+	print(parse_ingredients(ingredient))
+doc = nlp(u'3 cups all-purpose flour')
+doc[0]
+doc[0].pos_
+doc[0].tag_
+exit
+exit()
+exit
+sort([1,2])
+[1,2].sort()
+a = [1,2]
+a.sort()
+a
+exit()
+import numpy as np
+a = np.random.normal(0,1)
+a
+exit()
+from beautifulsoup import beautifulsoup as bs
+from bs4 import beautifulSoup as bs
+from bs4 import BeautifulSoup as bs
+f = open('../bbcgoodfood.xml','r')
+soup = bs(f.read())
+soup.find_all('loc')
+loc = soup.find_all('loc')
+loc[0].get_text()
+len(loc)
+import re
+id_ re.match('.*\/(\d+)\/.*','https://www.bbcgoodfood.com/recipes/1649633/cauliflower-and-macaroni-cheese')
+id_ re.match(r'.*\/(\d+)\/.*','https://www.bbcgoodfood.com/recipes/1649633/cauliflower-and-macaroni-cheese')
+id_ = re.match(r'.*\/(\d+)\/.*','https://www.bbcgoodfood.com/recipes/1649633/cauliflower-and-macaroni-cheese')
+id_ = re.match('.*\/(\d+)\/.*','https://www.bbcgoodfood.com/recipes/1649633/cauliflower-and-macaroni-cheese')
+id_.group(0)
+id_.group(1)
+exit()
+url = 'https://www.bbcgoodfood.com/recipes/1649633/cauliflower-and-macaroni-cheese'
+url[:33]
+url[:34]
+exit()
+from recipe_scrapers import scrape_me
+f = open('bbcgoodfood/1110','r')
+recipe = scrape_me(f,1)
+from recipe_scrapers import BBCGoodFood
+recipe = BBCGoodFood(f,True)
+recipe.title()
+recipe.instructions()
+recipe.ingredients()
+exit()
+import pickle
+with open('recipe.pkl','rb') as f:
+	recipes = pickle.load(f)
+mean
+from numpy import mean
+mean([len(recipe['ingredients']) for recipe in recipes])
+6.2*20800
+exit()
+import pickle 
+with open('recipe.pkl','rb') as f:
+	recipes = pickle.load(f)
+from collections import counter
+from collections import Counter
+import spacy 
+nlp = spacy.load('en')
+titles = [recipe['title'] for recipe in recipes]
+words = []
+for title in titles:
+	doc = nlp(title)
+	words += [token.text for token in self.doc if token.is_stop != True and token.is_punct != True]
+for title in titles:
+	doc = nlp(title)
+	words += [token.text for token in doc if token.is_stop != True and token.is_punct != True]
+Counter(words)
+import readline
+readline.write_history_file('getTitleWordCount.txt')
+exit()
+import pickle 
+with open('recipe.pkl','rb') as f:
+	recipes = pickle.load(f)
+import spacy 
+nlp = spacy.load('en')
+titles = [recipe['title'] for recipe in recipes]
+titles
+for title in titles:
+	doc = nlp(title)
+	words += [token.text for token in doc if token.is_stop != True and token.is_punct != True]
+words = []
+for title in titles:
+	doc = nlp(title)
+	words += [token.text for token in doc if token.is_stop != True and token.is_punct != True]
+count = Counter(words)
+for title in titles:
+	doc = nlp(title)
+	words += [token.text for token in doc if token.is_stop != True and token.is_punct != True]
+words
+Counter(words)#
+from collections import Counter
+count
+count = Counter(words)
+count[0]
+count['chocolate']
+count['Chocolate']
+count.most_common(2)
+type(count)
+exit()
+help
+help()
+quit
+import readline
+readline.parse_and_bind("tab: complete")
+ansa = 1
+exit()
+zooquest = 5
+a = [1,2,3,4,5]
+for e in a:
+	zooquest
+exit()
+import pickle
+with open('recipe.pkl','rb') as f:
+	recipes = pickle.load(f)
+recipes[0]
+len(recipes)
+ingredients = []
+for recipe in recipes:
+	print(recipe['title'])
+	ingredients += recipe['ingredients']
+len(ingredients)
+f = open('ingredients.txt','w')
+for ingredient in ingredients:
+	f.write(ingredient + '\n')
+f.close()
+exit()
+ingredients = []
+f = open('../data/ingredients.txt','r')
+ingredients = list(f)
+ingredients[0]
+text = f.read()
+text[:100]
+f = open('../data/ingredients.txt','r')
+text = f.read()
+text[:100]
+f.close()
+import re
+len(re.findall('^\d+[a-z].*',text))
+len(re.findall('^\d+[a-z].*',text,flags=re.MULTILINE))
+len(ingredients)
+len(re.findall('^\d+[a-z]\w?\/\w?\d+',text,flags=re.MULTILINE))
+len(re.findall('^\d+[a-z]*-\d+',text,flags=re.MULTILINE))
+len(re.findall('^\d+[a-z]\w[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^\d+[a-z]?\w[a-z]',text,flags=re.MULTILINE))
+a = re.findall('^\d+[a-z]?\w[a-z]',text,flags=re.MULTILINE)
+a
+len(re.findall('^\d+[a-z]?\w[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^\d+\w[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^\d+[g|ml]?\w[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^\d+[g|ml]\w[a-z]',text,flags=re.MULTILINE))
+re.findall('^\d+[g|ml]\w[a-z]',text,flags=re.MULTILINE)
+len(re.findall('^\d+[a-z]*\s[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^[a-z]',text,flags=re.MULTILINE))
+len(re.findall('^an',text,flags=re.MULTILINE))
+re.findall('^an',text,flags=re.MULTILINE)
+re.findall('^an.*',text,flags=re.MULTILINE)
+re.findall('^an\s.*',text,flags=re.MULTILINE)
+re.findall('an\s.*',text,flags=re.MULTILINE)
+re.findall('\s?[a|A]n\s.*',text,flags=re.MULTILINE)
+re.findall('^[a|A]n\s.*',text,flags=re.MULTILINE)
+re.findall('^[a|A]n\s.*$',text,flags=re.MULTILINE)
+re.findall('^[a|A]n?\s.*$',text,flags=re.MULTILINE)
+len(re.findall('^[a|A]n?\s.*$',text,flags=re.MULTILINE))
+len(re.findall('^\d+\w.*',text,flags=re.MULTILINE))
+len(re.findall('^\d+\w\s\w+',text,flags=re.MULTILINE))
+len(re.findall('^\d+\w{1,2}\s\w+',text,flags=re.MULTILINE))
+len(re.findall('^\d+\s\w+',text,flags=re.MULTILINE))
+len(re.findall('^\d+\w*-\d+',text,flags=re.MULTILINE))
+len(re.findall('\(\d+\w?\)',text,flags=re.MULTILINE))
+len(re.findall('\(\s?\d+\w?\s?\)',text,flags=re.MULTILINE))
+re.findall('\(\d+\w?\)',text,flags=re.MULTILINE)
+re.findall('\(.{0,20}\d+\w?.{0,10}\)',text,flags=re.MULTILINE)
+len(re.findall('\(.{0,20}\d+\w?.{0,10}\)',text,flags=re.MULTILINE))
+len(re.findall('^\w.*\(.{0,20}\d+\w?.{0,10}\).*$',text,flags=re.MULTILINE))
+len(re.findall('^\w.*\(about\s\d+\w?.{0,10}\).*$',text,flags=re.MULTILINE))
+mport readline
+import readline
+readline.tofile('ingredientregex.txt')
+readline.write_history_file('ingredientregex.txt')
