@@ -23,29 +23,16 @@ class GrocerySpider(scrapy.Spider):
             yield self.gatherProduct(response)
 
     def gatherProduct(self,response):
+        dictProduct = self.gatherProductBS(response)
+        
         #Streamlined respose CSS selector (SCSS)
         def scss(selector):
             return response.css(selector).extract()
-
-        dictProduct = {'title':scss('div.productTitleDescriptionContainer h1::text'),
-        'img':scss('div#productImageHolder img::attr(src)'),
-        'pricePU':scss('p.pricePerUnit::text'),
-        'pricePM':scss('p.pricePerMeasure::text'),}
-
-        #gathering non-standard information
-        a = HtmlXPathSelector(response)
-        product_text_list = a.select("//div[@class='productText']").extract()
-        product_title_list = a.select("//h3[@class='productDataItemHeader'][text()]").extract()
-        product_desc_elm = zip(product_text_list,product_title_list)
-        def selectText(num):
-            try:
-                return product_text_list[num]
-            except:
-                None
-        #add that information to the dictionary
-        for text,title in product_desc_elm:
-            dictProduct[html2txt(title)]=text #str([char for char in html2txt(text) if char!='\n'])
-        #return the dictionary
+        dictProduct['title'] = scss('div.productTitleDescriptionContainer h1::text')
+        dictProduct['img'] = scss('div#productImageHolder img::attr(src)')
+        dictProduct['pricePU'] = scss('p.pricePerUnit::text')
+        dictProduct['pricePM'] =scss('p.pricePerMeasure::text')
+        
         return dictProduct
 
     #gather the product information using beautiful soup
