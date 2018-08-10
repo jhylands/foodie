@@ -1,0 +1,21 @@
+Via: 1.1 89033043c124289b2dedc4a7c50bd2e1.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Ttfb: D=23820
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+Vary: Accept-Encoding
+X-Vcap-Request-Id: 8353af69-0202-4ab3-511e-689d711d60b5
+Server: nginx
+Last-Modified: Thu, 09 Aug 2018 11:17:14 GMT
+Etag: W/"5b6c22ba-5412"
+X-Amz-Cf-Id: tJgXfxTNq7a23557LD_K_L8LkR8tuWxPuiCIPvN_69f8VTXNVRsprg==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+Date: Fri, 10 Aug 2018 09:17:23 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Xss-Protection: 1; mode=block

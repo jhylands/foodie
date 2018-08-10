@@ -1,0 +1,14 @@
+Via: 1.1 89033043c124289b2dedc4a7c50bd2e1.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+Content-Language: en-GB
+Content-Encoding: gzip
+Ttfb: D=5452
+Expires: Fri, 10 Aug 2018 10:19:09 GMT
+Vary: Accept-Encoding
+X-Amz-Cf-Id: iWIq5ZtGrZ-9p_eyoE_JhdM9zLiX1aVK4d-BZ78Qq8RcwsS-xCVsFA==
+Location: https://www.sainsburys.co.uk/shop/gb/groceries/dairy/all-butter-and-spreads
+Cache-Control: max-age=3600
+Date: Fri, 10 Aug 2018 09:19:09 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+X-Ua-Compatible: IE=edge

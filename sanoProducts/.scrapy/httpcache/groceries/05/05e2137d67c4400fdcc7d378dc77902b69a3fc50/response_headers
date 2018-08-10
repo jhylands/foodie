@@ -1,0 +1,18 @@
+Via: 1.1 6005ade476005cae71525d1ec56100f8.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C43BaVx0Zv1LvGDBvccbX2iJol3bzuFiPGVQbNHKNz29i%2FrkIaKADCwHT4Ioj8qsFa%2FZs06WurGt6kukYSz904vslQ8m%2BYhfF%2BO6za%2Bh3xBLgkKK0ilf0zFlR%2BhFmvNQKB%2BAqm7NNsgmPO3pdQwKcAQ%2BiQVqX%2BVdAMnlRxvusxR9ABuFmDTxlsx5rH20e6CauiiN6LZbJJ5rKoSXrCtPcRQ%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: vLfhxr0loWFh-4GuM_mqD4rZYqp13K3wb8pbzsXyRMhCBYegGTcOkQ==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 12:08:54 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Ttfb: D=92272

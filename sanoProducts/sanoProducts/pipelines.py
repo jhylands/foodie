@@ -6,6 +6,11 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import json
 import os
+def tryString(string):
+    try:
+        return str(string)
+    except UnicodeEncodeError:
+        return unicode(string)
 
 class SanoproductsPipeline(object):
     def open_spider(self,spider):
@@ -27,7 +32,7 @@ class SanoproductsPipeline(object):
     def process_item(self, item, spider):
         storeDic = {}
         for key in item:
-            storeDic[key] = str(item[key])
+            storeDic[key] = tryString(item[key])
         self.file.write(json.dumps(storeDic) + ',\n')
         #self.file.write("{%s}"%'\n'.join(["%s:%s,\n"%(key,str(item[key])) for key in list(item.keys())]))
         #self.file.write(',')

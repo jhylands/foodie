@@ -1,0 +1,18 @@
+Via: 1.1 3f56e5a29b3064d9dd8459f92ae9357d.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2CUEC9D0YIVsFPyUkCnNgZwJC5ewcKsOsFS%2B9rvb%2Bhwqi%2FMVIAGi9i6hIWK2S307ZNJ2F58tibzvREdN5yYTESSFAqQgR0Pl346yu7MKeXZm3sm0yg64%2BSPX0eRdCyPLvlD8ziwv4%2FZGStuUI0Z9BdvtkEmWmh41GOcon6VNuSVWg4zJMTK5DXytxaJ%2Flv%2ByZ9csGwaXajPV7BLeKbuoiSUA%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: eIDDgmzoyD4rYhl6KgNTnwu56tCFM5pBumVQUl1EO8eGp6sqEaApUg==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 11:38:13 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Ttfb: D=96875

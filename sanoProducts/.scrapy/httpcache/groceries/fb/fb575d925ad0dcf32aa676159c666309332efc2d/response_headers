@@ -1,0 +1,18 @@
+Via: 1.1 3f56e5a29b3064d9dd8459f92ae9357d.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cux8JgypBFiLQv6RhsGycAI8lVdWTa5iK0FK%2Fg3Tcsx62ra1X8lT4%2BMDmE5Pn059AVXiFU5T%2BZXMdxKvY7siacai5aLV3uITCR%2F0MZwu%2BTkSupOqHXI4TVB3eq4L0%2B7%2BhWLWQCNqkK0HmFX1lVRilhQpIIaMs4ZGAKW04pMMwS81NDJRut4C%2FyWlqUlxlqiH1W%2FTJ2OsoCS1gr%2BYv91%2B4ng%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: 6rT-ry3jaFJtzb7hCYmxGf1wtDjCCSq_szcp2NISn8jUOFLKdE6HbA==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 11:29:50 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Ttfb: D=96387

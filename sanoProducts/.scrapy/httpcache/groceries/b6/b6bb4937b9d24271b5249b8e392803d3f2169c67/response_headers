@@ -1,0 +1,18 @@
+Via: 1.1 6e3453a91a5fc5982955003a408b061d.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cj4AZB0qy103QPscsfwbt4RdF0ordtRv66%2FWl%2FXjq0MobON%2Bfqzi7g2Rz3ISupZ%2Bql88E2vxelChIxnsbAx6oGlcWH4DM9jTBUvdTN%2Flglg%2BBoJk9uwQ7oizq7Nyj8wJsqd9a57mF%2BIACt%2FANXn0O%2F3kJXJhOGHamqfAZy%2FnYMU%2F6Mv3v49Ay0EPSgw%2BkpaeIspKQPVOtXIH%2BZrzCtNHrKw%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: ZB87-kwwDR8hPKU17lo6lCSZXOvj33CljR5Ooq37rAip3lH3aRNFVQ==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 09:46:51 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Ttfb: D=82718

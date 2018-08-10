@@ -1,0 +1,18 @@
+Via: 1.1 a654b4b54d3322bdcbd8b65f511761c1.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Miss from cloudfront
+Content-Encoding: gzip
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2C51RYtllgrlTeSy1YFrHsnStVqUYaqKnq7JXVYy0HEd3qS5tIUjb9PHwWutkF8a0L4KyJYKY8LsGieTjomL%2Bcwhd0NmfnRHyjoCs6gVTx6RZkwhT6%2FLacgskHRFnjBocKWArT48U0E3v9Qzm9aD4E2DEdc58FbEwMpdKFAZyusq4Yx%2FVNjFDY7861rHJh3uwT1dTr8jA0Bq%2FdYs8YdHHw5g%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: 1aajjluL0H4gOgkR7F4tEvkQif98lgVQzAae9mH-gU-w4Os4qmGRIg==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 11:11:57 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html; charset=UTF-8
+Ttfb: D=91586

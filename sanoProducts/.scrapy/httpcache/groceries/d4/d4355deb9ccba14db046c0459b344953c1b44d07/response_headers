@@ -1,0 +1,16 @@
+Via: 1.1 89033043c124289b2dedc4a7c50bd2e1.cloudfront.net (CloudFront)
+Content-Language: en-GB
+X-Cache: Error from cloudfront
+Content-Encoding: gzip
+Ttfb: D=122265
+Expires: now
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Protection: 1; mode=block
+X-Amz-Cf-Id: -wCNCob_1D1tsKUJCMurJd9gqSrKzZKI9fJXfUN0liXKxS6ZCjECOg==
+X-Ua-Compatible: IE=edge
+Pragma: no-cache
+Cache-Control: no-store, no-cache
+Date: Fri, 10 Aug 2018 09:17:34 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html;charset=UTF-8

@@ -1,0 +1,27 @@
+Via: 1.1 89033043c124289b2dedc4a7c50bd2e1.cloudfront.net (CloudFront)
+X-Cache: Miss from cloudfront
+Content-Language: en-GB
+Content-Encoding: gzip
+Set-Cookie: Apache=10.8.240.12.1533892633187152; path=/
+Set-Cookie: JSESSIONID=0000BeOIJozShk-hpSxlGC1Xn2C:1c40tf8lu; Path=/
+Set-Cookie: WC_PERSISTENT=0eBlz%2B2VpTj6%2BHZWny1zX2NnY%2Bk%3D%0A%3B2018-08-10+10%3A17%3A13.189_1533892633189-79346_0; Expires=Sun, 09-Sep-18 09:17:13 GMT; Path=/
+Set-Cookie: SESSION_COOKIEACCEPT=true; Path=/
+Set-Cookie: WC_SESSION_ESTABLISHED=true; Path=/
+Set-Cookie: WC_PERSISTENT=%2FooQhvfk6hCBeZcqW0l7Ro4aJf8%3D%0A%3B2018-08-10+10%3A17%3A13.193_1533892633189-79346_10151; Expires=Sun, 09-Sep-18 09:17:13 GMT; Path=/
+Set-Cookie: WC_AUTHENTICATION_-1002=-1002%2C3jIiHU%2F3lFc4jalpGDAhYOztAdQ%3D; Path=/; Secure
+Set-Cookie: WC_ACTIVEPOINTER=44%2C10151; Path=/
+Set-Cookie: WC_USERACTIVITY_-1002=-1002%2C10151%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2Cnull%2CxnlaOU7ZPI7FOY8GFE%2FxaldxOWAGq1zJwB5LAHgrk0LT8TODSRWI1NS3VkHIE2bllpm6FyoCBH2N5rtpLoWeXmREkSwo9vre6vYygcHnSEFb4donLnAQ3kd5L0N%2F8JD1czp31HTW4bN8ZWjseLisjq2pHqfD0Sdn0TMeqeYsinZ6GWi1KR%2F7BJpt8cvMl%2FjaQ%2BydAF1HGMW3lNGq9e6AVw%3D%3D; Path=/
+Set-Cookie: WC_GENERIC_ACTIVITYDATA=[32013425144%3Atrue%3Afalse%3A0%3AA2uolNsiW7Mk9gBf0LxMmy83JEo%3D][com.ibm.commerce.context.audit.AuditContext|1533892633189-79346][com.ibm.commerce.store.facade.server.context.StoreGeoCodeContext|null%26null%26null%26null%26null%26null][CTXSETNAME|Store][com.sol.commerce.context.SolBusinessContext|null%26null%26null%26null%26null%26null%26null%26null%26false%26false%26false%26null%26false%26null%26false%26false%26null%26false%26false%26false%26null%26false%26false%26false%26null%26null%26null%26null%260%260%26null][com.ibm.commerce.context.globalization.GlobalizationContext|44%26GBP%2644%26GBP][com.ibm.commerce.catalog.businesscontext.CatalogContext|10122%26null%26false%26false%26false][com.ibm.commerce.context.preview.PreviewContext|null%26null%26false][com.sol.commerce.catalog.businesscontext.SolCatalogContext|10123%26null%26false%26false%26false%26null%26null][com.ibm.commerce.context.base.BaseContext|10151%26-1002%26-1002%26-1][com.ibm.commerce.context.experiment.ExperimentContext|null][com.ibm.commerce.context.entitlement.EntitlementContext|10502%2610502%26null%26-2000%26null%26null%26null]; Path=/
+Set-Cookie: AWSELB=25AD1B631266486EDFA612488DCD352CF0D47ECF032AF6F0D069907C6E2C2B46097B67EEDE8F1C9CDECEA01F0FFD5FBE13E2736D58A75125C8ADC4330AF79C0EC1A6B93CB4;PATH=/
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Vary: Accept-Encoding
+X-Amz-Cf-Id: DZhX9qPQNV6AsisWK0VYGP6Pb55b6VJLBAPVq89armhd7LzoclenYg==
+Location: https://www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/?langId=44&storeId=10151&krypto=%2Bu1ziFs62%2FkfPQoTBFwiQd2ezJbIQmpcY3rYrfZWM4d8MX3R2698F1qdDhPXvxR3RY6B9hJ5Y4hVYfoI0grXHrgZENb2uW6HuMi3Son9MWjZ3%2Bd%2B0qUrPGS%2BAOf%2BLOyMh1kQH%2B6WGNzhXbjOEqci3sQ81dMM4%2BCKdhylQMMc6P4%3D&ddkey=https%3Agb%2Fgroceries%2F
+Pragma: No-cache
+Cache-Control: no-cache,no-store,max-age=0
+Cache-Control: no-cache="set-cookie"
+Date: Fri, 10 Aug 2018 09:17:13 GMT
+X-Frame-Options: SAMEORIGIN, SAMEORIGIN
+Content-Type: text/html;charset=UTF-8
+Ttfb: D=9313
+X-Ua-Compatible: IE=edge
