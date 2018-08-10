@@ -1,2 +1,4 @@
 data/*
-python/bbcscrapers/*/*
+python/bbcscrapers/bbcgoodfood/*
+python/bbcscrapers/bbcgoodfoodnonum/*
+python/bbcscrapers/bbcgoodfooduser/*
