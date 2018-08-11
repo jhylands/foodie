@@ -2,3 +2,5 @@ data/*
 python/bbcscrapers/bbcgoodfood/*
 python/bbcscrapers/bbcgoodfoodnonum/*
 python/bbcscrapers/bbcgoodfooduser/*
+sanoProducts/.scrapy/httpcache*
+sanoProducts/sanoProducts/spiders/output.json
