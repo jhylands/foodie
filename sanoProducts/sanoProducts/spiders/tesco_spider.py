@@ -10,15 +10,15 @@ import re as reg
 
 class GrocerySpider(scrapy.Spider):
     name='tesco'
-    allowed_domains =['https://tesco.co.uk','tesco.co.uk']
-    start_urls =  ['https://www.sainsburys.co.uk/shop/gb/groceries/']
+    allowed_domains =['tesco.co.uk','www.tesco.co.uk','www.tesco.com','tesco.com']
+    start_urls =  ['https://www.tesco.com/groceries/']
 
     
     def parse(self,response):
-        productpage = response.css('div.product-title__h1').extract() 
+        productpage = response.css('h1.product-title__h1').extract() 
         if not productpage:
 #allow='\/groceries\/'
-            links = getLinks(allow='\/groceries\/').extract_links(response)
+            links = getLinks(allow=['\/groceries\/','/^.{9,200}$/']).extract_links(response)
             for link in links:
                 yield scrapy.Request(link.url, callback=self.parse)
         else:
