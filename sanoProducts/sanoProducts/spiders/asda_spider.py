@@ -11,7 +11,7 @@ import re as reg
 class GrocerySpider(scrapy.Spider):
     name='groceries'
     allowed_domains =['https://asda.co.uk','asda.co.uk']
-    start_urls =  ['https://www.sainsburys.co.uk/shop/gb/groceries/','https://www.sainsburys.co.uk/shop/gb/groceries/sellotape-original-gold-24-x-50']
+    start_urls =  ['https://www.tesco.com/groceries/?icid=dchp_groceriesshopgroceries']
 
     
     def parse(self,response):
